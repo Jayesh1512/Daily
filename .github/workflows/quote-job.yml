@@ -1,30 +1,35 @@
-name: Get quote to README
+name: Update README with Joke
+
 on:
   schedule:
-    # Runs at midnight everyday
-    - cron: '0 0 * * *'
-
-  # Allows you to run this workflow manually from the Actions tab
+    - cron: '0 0 * * *' # Runs every day at midnight
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  build:
-    # The type of runner that the job will run on
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - name: Setup node 12
-        uses: actions/setup-node@v2
-        with:
-          node-version: 12.x
-      - run: npm install     
-      - run: npm run start
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "Jayesh1512"
-          git config --global user.email "jayeshshetestudy@gmail.com"
-          git add -A
-          git commit -m "New Joke added"
-          git push
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run script to update README
+      run: node script.js # Replace with your actual script file
+
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
+      run: |
+        git config --global user.name 'Your GitHub Username'
+        git config --global user.email 'your-email@example.com'
+        git add README.md
+        git commit -m "New Joke added"
+        git push https://<your-username>:${{ secrets.ACTIONS_PAT }}@github.com/<your-username>/<your-repository>.git
