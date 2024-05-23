@@ -28,8 +28,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
       run: |
-        git config --global user.name 'Your GitHub Username'
-        git config --global user.email 'your-email@example.com'
+        git config --global user.name 'Jayesh1512'
+        git config --global user.email 'jayeshshetestudy@gmail.com'
         git add README.md
         git commit -m "New Joke added"
         git push https://<your-username>:${{ secrets.ACTIONS_PAT }}@github.com/<your-username>/<your-repository>.git
