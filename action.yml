@@ -1,0 +1,7 @@
+name: 'joke workflow'
+author: 'Bot'
+description: 'joke in readme'
+
+runs:
+  using: node12
+  main: index.js
