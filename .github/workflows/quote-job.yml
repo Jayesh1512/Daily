@@ -2,7 +2,7 @@ name: Update README with Joke
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Runs every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -22,14 +22,14 @@ jobs:
       run: npm install
 
     - name: Run script to update README
-      run: node index.js # Replace with your actual script file
+      run: node index.js  # Ensure this is the correct path to your script
 
     - name: Commit and push changes
       env:
-        GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
+        ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}  # Ensure this is the correct name of your secret
       run: |
         git config --global user.name 'Jayesh1512'
         git config --global user.email 'jayeshshetestudy@gmail.com'
         git add README.md
         git commit -m "New Joke added"
-        git push https://<your-username>:${{ secrets.ACTIONS_PAT }}@github.com/Jayesh1512/Daily.git
+        git push https://${{ secrets.ACTIONS_PAT }}@github.com/Jayesh1512/Daily.git
