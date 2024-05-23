@@ -19,7 +19,8 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: 12.x
-      - run: npm run make
+      - run: npm install     
+      - run: npm run start
       - name: Commit and push changes
         run: |
           git config --global user.name "Jayesh1512"
