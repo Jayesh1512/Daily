@@ -2,7 +2,7 @@ name: Update README with Joke
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -32,4 +32,4 @@ jobs:
         git config --global user.email 'jayeshshetestudy@gmail.com'
         git add README.md
         git commit -m "New Joke added"
-        git push https://<your-username>:${{ secrets.ACTIONS_PAT }}@github.com/<your-username>/<your-repository>.git
+        git push https://<your-username>:${{ secrets.ACTIONS_PAT }}@github.com/Jayesh1512/Daily.git
