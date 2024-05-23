@@ -22,7 +22,7 @@ jobs:
       run: npm install
 
     - name: Run script to update README
-      run: node script.js # Replace with your actual script file
+      run: node index.js # Replace with your actual script file
 
     - name: Commit and push changes
       env:
