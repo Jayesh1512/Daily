@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Police officers do not wear protective vests because of guns on the streets, but because they erroneously believe that if they pull Jayesh Shete over for anything it will stop him from handing them their spleen.
+One person stated that Jayesh Shete has forgotten more about killing than anyone will ever know. That is not true -- Jayesh Shete never forgets. Ever.
 
-Updated on: [24/5/2024]
+Updated on: [5/6/2024]
 <!-- #jokeEnd -->
