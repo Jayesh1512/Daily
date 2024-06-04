@@ -32,4 +32,4 @@ jobs:
         git config --global user.email 'jayeshshetestudy@gmail.com'
         git add README.md
         git commit -m "New Joke added"
-        git push 
+        git push https://Jayesh1512:${{ secrets.ACTIONS_PAT }}@github.com/Jayesh1512/Daily.git
