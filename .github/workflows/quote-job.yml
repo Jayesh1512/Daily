@@ -26,7 +26,7 @@ jobs:
 
     - name: Commit and push changes
       env:
-        ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}  # Ensure this is the correct name of your secret
+        ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
       run: |
         git config --global user.name 'Jayesh1512'
         git config --global user.email 'jayeshshetestudy@gmail.com'
