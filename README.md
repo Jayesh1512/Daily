@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The most beautiful and lush chord ever heard by the human ear is created by Jayesh simply dropping his dick onto a piano keyboard.
+Jayesh knows when you're sleeping, Jayesh knows when you're awake, Jayesh knows if you've been bad or good, So be good, or your life he'll take.
 
 Updated on: [5/6/2024]
 <!-- #jokeEnd -->
