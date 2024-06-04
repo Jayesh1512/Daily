@@ -30,6 +30,6 @@ jobs:
       run: |
         git config --global user.name 'Jayesh1512'
         git config --global user.email 'jayeshshetestudy@gmail.com'
-        git add README.md
+        git add .
         git commit -m "New Joke added"
         git push https://Jayesh1512:${{ secrets.ACTIONS_PAT }}@github.com/Jayesh1512/Daily.git
