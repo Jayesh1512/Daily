@@ -16,8 +16,8 @@ const fetchJokeAndUpdateReadme = async () => {
     const response = await axios.request(options);
     let joke = response.data.value;
 
-    // Replace "Chuck Norris" with "Jayesh Shete"
-    joke = joke.replace(/Chuck Norris/g, 'Jayesh Shete');
+    // Replace "Chuck Norris" with "Jayesh"
+    joke = joke.replace(/Chuck Norris/g, 'Jayesh');
 
     // Prepare new content with heading
     let currentTime = new Date();
