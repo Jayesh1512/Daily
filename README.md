@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh likes to scare the shit out of Saint Peter by killing people so hard they smash into the pearly gates.
+Jayesh can drink an entire gallon of milk in thirty-seven seconds.
 
 Updated on: [5/6/2024]
 <!-- #jokeEnd -->
