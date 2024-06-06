@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can drink an entire gallon of milk in thirty-seven seconds.
+When he was four, Jayesh could use his Etch-A-Scetch like an iPad.
 
-Updated on: [5/6/2024]
+Updated on: [6/6/2024]
 <!-- #jokeEnd -->
