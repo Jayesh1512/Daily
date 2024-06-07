@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When he was four, Jayesh could use his Etch-A-Scetch like an iPad.
+Jayesh can win at the game Battleship by simply banging Rihanna.
 
-Updated on: [6/6/2024]
+Updated on: [7/6/2024]
 <!-- #jokeEnd -->
