@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can win at the game Battleship by simply banging Rihanna.
+Jayesh solo-ed Everest in shorts and a tank-top.
 
-Updated on: [7/6/2024]
+Updated on: [8/6/2024]
 <!-- #jokeEnd -->
