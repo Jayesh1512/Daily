@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh solo-ed Everest in shorts and a tank-top.
+Jayesh is widely considered an extreme sport.
 
-Updated on: [8/6/2024]
+Updated on: [9/6/2024]
 <!-- #jokeEnd -->
