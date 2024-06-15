@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can pick an apple off a orange tree and make the best damn lemonade you have ever had.
+Whenever Jayesh leaves a building, it explodes in dramatic form while Chuck walks away nonchalantly. Having a home is difficult for Chuck.
 
-Updated on: [14/6/2024]
+Updated on: [15/6/2024]
 <!-- #jokeEnd -->
