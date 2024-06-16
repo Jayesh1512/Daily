@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Whenever Jayesh leaves a building, it explodes in dramatic form while Chuck walks away nonchalantly. Having a home is difficult for Chuck.
+For a birthday prank, Jayesh put a gorilla's head on Francis Ford Coppola's bed while he was sleeping.
 
-Updated on: [15/6/2024]
+Updated on: [16/6/2024]
 <!-- #jokeEnd -->
