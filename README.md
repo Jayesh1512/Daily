@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-For a birthday prank, Jayesh put a gorilla's head on Francis Ford Coppola's bed while he was sleeping.
+That is not a normal tatoo of a screaming eagle on Jayesh' back! It is in fact, self applied body art that he created with an Acetylene welding torch and Napalm.
 
-Updated on: [16/6/2024]
+Updated on: [17/6/2024]
 <!-- #jokeEnd -->
