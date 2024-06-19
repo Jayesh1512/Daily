@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-That is not a normal tatoo of a screaming eagle on Jayesh' back! It is in fact, self applied body art that he created with an Acetylene welding torch and Napalm.
+When life gives Jayesh lemons, he makes life apologize.
 
-Updated on: [17/6/2024]
+Updated on: [20/6/2024]
 <!-- #jokeEnd -->
