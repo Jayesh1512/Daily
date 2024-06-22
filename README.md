@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When night falls in the forest, the darkness gets afraid of Jayesh
+Every baby cries when they are born, because an image of Jayesh pops into there minds.
 
-Updated on: [21/6/2024]
+Updated on: [22/6/2024]
 <!-- #jokeEnd -->
