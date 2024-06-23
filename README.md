@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Every baby cries when they are born, because an image of Jayesh pops into there minds.
+Jayesh is ALL that AND a bag of chips!
 
-Updated on: [22/6/2024]
+Updated on: [23/6/2024]
 <!-- #jokeEnd -->
