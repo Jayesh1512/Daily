@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh went into a restaurant and ordered a beef steak. The waiter asked him how would he like his steak cooked - well done, medium or rare. Jayesh said - "Alive".
+When Jayesh needs to travel by plane, he makes BA Baracus fly him.
 
-Updated on: [24/6/2024]
+Updated on: [25/6/2024]
 <!-- #jokeEnd -->
