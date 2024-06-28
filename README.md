@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-After reading about the April protests in Baltimore, Jayesh decided to attend the Orioles, White Sox game to protect the players. No protester or thug dared attend.
+Jayesh speaks every language on Earth, and three more that no one else speaks.
 
-Updated on: [27/6/2024]
+Updated on: [28/6/2024]
 <!-- #jokeEnd -->
