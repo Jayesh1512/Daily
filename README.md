@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh speaks every language on Earth, and three more that no one else speaks.
+After he takes a shit, Jayesh puts the toilet seat back up.
 
-Updated on: [28/6/2024]
+Updated on: [29/6/2024]
 <!-- #jokeEnd -->
