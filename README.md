@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-After he takes a shit, Jayesh puts the toilet seat back up.
+Jayesh has the worlds biggest balls, will has the worlds second largest balls
 
-Updated on: [29/6/2024]
+Updated on: [30/6/2024]
 <!-- #jokeEnd -->
