@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh has the worlds biggest balls, will has the worlds second largest balls
+A man woke in Intensive Care with severe injuries and no memory of what happened. An investigation determined he was hit by either a freight train or by Jayesh.
 
-Updated on: [30/6/2024]
+Updated on: [1/7/2024]
 <!-- #jokeEnd -->
