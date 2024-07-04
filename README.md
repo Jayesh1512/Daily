@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-You can totally tell that the chick who won Eurovision was fathered by Jayesh.
+Jayesh was once invited to a Square Dance Hoedown. For clear and obvious reasons, there were no survivors.
 
-Updated on: [3/7/2024]
+Updated on: [4/7/2024]
 <!-- #jokeEnd -->
