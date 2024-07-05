@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh was once invited to a Square Dance Hoedown. For clear and obvious reasons, there were no survivors.
+Jayesh once beat John Wayne in a armwrestling match. But, that was when he was 1 and a half.
 
-Updated on: [4/7/2024]
+Updated on: [5/7/2024]
 <!-- #jokeEnd -->
