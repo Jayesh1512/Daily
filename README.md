@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once traveled ahead in time just simply to enter the Starship Enterprise, intentionally get captured by the Borg and inseminate of Seven of Nine.
+Little known fact: Jayesh actually owns more gold chains than Mr T. It's just that he hangs them off of his penis instead.
 
-Updated on: [7/7/2024]
+Updated on: [8/7/2024]
 <!-- #jokeEnd -->
