@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Little known fact: Jayesh actually owns more gold chains than Mr T. It's just that he hangs them off of his penis instead.
+Many rednecks and rual farmers enjoy Mountain Oysters as a special delicacy within their traditional menus. Jayesh, however, prefers to personally harvest and diet upon Mountain Gorilla Oysters.
 
-Updated on: [8/7/2024]
+Updated on: [9/7/2024]
 <!-- #jokeEnd -->
