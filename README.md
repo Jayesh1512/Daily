@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Many rednecks and rual farmers enjoy Mountain Oysters as a special delicacy within their traditional menus. Jayesh, however, prefers to personally harvest and diet upon Mountain Gorilla Oysters.
+Jimmy Fallon has to ask Jayesh permission "to make it rain up in here".
 
-Updated on: [9/7/2024]
+Updated on: [10/7/2024]
 <!-- #jokeEnd -->
