@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jimmy Fallon has to ask Jayesh permission "to make it rain up in here".
+Jayesh has never been dubbed in any film, because his fists do the talking.
 
-Updated on: [10/7/2024]
+Updated on: [11/7/2024]
 <!-- #jokeEnd -->
