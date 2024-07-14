@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh pissed on a truck. that truck is now known as Optimus Prime
+Jesus can walk on water Jayesh can swim through land
 
-Updated on: [13/7/2024]
+Updated on: [14/7/2024]
 <!-- #jokeEnd -->
