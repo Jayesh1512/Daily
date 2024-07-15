@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jesus can walk on water Jayesh can swim through land
+When Jayesh contradicts himself, he doesn't
 
-Updated on: [14/7/2024]
+Updated on: [15/7/2024]
 <!-- #jokeEnd -->
