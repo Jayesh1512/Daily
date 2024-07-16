@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When Jayesh contradicts himself, he doesn't
+Jayesh once got aids. He sent them on an espionage mission to Phuket, Thailand, and they all got AIDS.
 
-Updated on: [15/7/2024]
+Updated on: [16/7/2024]
 <!-- #jokeEnd -->
