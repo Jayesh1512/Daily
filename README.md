@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once got aids. He sent them on an espionage mission to Phuket, Thailand, and they all got AIDS.
+Somebody once witnessed Jayesh saw a mans head clean off, with a pillow!
 
-Updated on: [16/7/2024]
+Updated on: [17/7/2024]
 <!-- #jokeEnd -->
