@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Somebody once witnessed Jayesh saw a mans head clean off, with a pillow!
+Jayesh once played pokemon black, caught a lvl 0 magikarp and beat the whole game
 
-Updated on: [17/7/2024]
+Updated on: [18/7/2024]
 <!-- #jokeEnd -->
