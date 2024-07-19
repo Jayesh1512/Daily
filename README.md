@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once played pokemon black, caught a lvl 0 magikarp and beat the whole game
+we truly never dropped an atomic bomb on Hiroshima, we just dropped Jayesh
 
-Updated on: [18/7/2024]
+Updated on: [19/7/2024]
 <!-- #jokeEnd -->
