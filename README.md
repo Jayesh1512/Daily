@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-we truly never dropped an atomic bomb on Hiroshima, we just dropped Jayesh
+Jayesh Lost his virginity before his Dad...
 
-Updated on: [19/7/2024]
+Updated on: [20/7/2024]
 <!-- #jokeEnd -->
