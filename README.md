@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh said "Go fuck yourself" and you did...
+After he was born, Jayesh immediately ate his own placenta.
 
-Updated on: [21/7/2024]
+Updated on: [22/7/2024]
 <!-- #jokeEnd -->
