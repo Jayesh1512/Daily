@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once saved Superman's life. Just to kill him again.
+Jayesh is not invited to Pro-Am golf tournaments because he would make the other golfers look bad. Amateurs, too.
 
-Updated on: [23/7/2024]
+Updated on: [24/7/2024]
 <!-- #jokeEnd -->
