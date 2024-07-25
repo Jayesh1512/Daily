@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is not invited to Pro-Am golf tournaments because he would make the other golfers look bad. Amateurs, too.
+Martial arts have given Jayesh the ability to predict your actions before you make them. He can look at you and know if you're getting ready to run, pull a gun or get your heart torn out. Guess what: You're always getting ready to get your heart torn out.
 
-Updated on: [24/7/2024]
+Updated on: [25/7/2024]
 <!-- #jokeEnd -->
