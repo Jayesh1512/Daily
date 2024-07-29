@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-A kid once had test. Not knowing what to do, the kid wrote "Jayesh" for every answer. He got a perfect score, but Jayesh came and roundhouse kicked him for using his name in vain.
+Jayesh can speak English, Spanish, French, Japanese, Russian, Italian, and Elvish- all at the same time.
 
-Updated on: [28/7/2024]
+Updated on: [29/7/2024]
 <!-- #jokeEnd -->
