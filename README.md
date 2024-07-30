@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can speak English, Spanish, French, Japanese, Russian, Italian, and Elvish- all at the same time.
+Never look a gift Jayesh in the mouth, because he will bite your damn nose off.
 
-Updated on: [29/7/2024]
+Updated on: [30/7/2024]
 <!-- #jokeEnd -->
