@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Never look a gift Jayesh in the mouth, because he will bite your damn nose off.
+Jayesh was originally cast in the hit fil taken but he got his daughter back before the end of the opening scene
 
-Updated on: [30/7/2024]
+Updated on: [31/7/2024]
 <!-- #jokeEnd -->
