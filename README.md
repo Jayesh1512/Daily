@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh was originally cast in the hit fil taken but he got his daughter back before the end of the opening scene
+Once a cobra bit Jayesh' leg. After five days of excruciating pain, the cobra died.
 
-Updated on: [31/7/2024]
+Updated on: [1/8/2024]
 <!-- #jokeEnd -->
