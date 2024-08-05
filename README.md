@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh may not have invented death, but he sure as hell perfected it.
+Jayesh killed a tiger. Now, Rocky Balboa is the eye of Jayesh.
 
-Updated on: [4/8/2024]
+Updated on: [5/8/2024]
 <!-- #jokeEnd -->
