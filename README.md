@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh killed a tiger. Now, Rocky Balboa is the eye of Jayesh.
+An interviewer recently asked Jayesh what it felt like to lose to Bruce Lee. Jayesh unloaded a revolver into her face.
 
-Updated on: [5/8/2024]
+Updated on: [6/8/2024]
 <!-- #jokeEnd -->
