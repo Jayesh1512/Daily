@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can see the color beningiorer. And you haven't even heard about it.
+Jayesh likes sunny days and long walks on the beach....but only after gunning down a Taliban pre-school.
 
-Updated on: [8/8/2024]
+Updated on: [9/8/2024]
 <!-- #jokeEnd -->
