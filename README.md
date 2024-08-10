@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh likes sunny days and long walks on the beach....but only after gunning down a Taliban pre-school.
+When Jayesh enjoys some spare time from kicking ass he sits in his tool shed whacking off.
 
-Updated on: [9/8/2024]
+Updated on: [10/8/2024]
 <!-- #jokeEnd -->
