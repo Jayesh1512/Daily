@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh' favorite seafood restaurant always serves him armadillo on the half shell.
+A man once told Jayesh that he and everyone would be wise to learn to "expect the unexpected" in life's journey. Jayesh then immediately roundhouse kicked the man in the face and said, "did you expect that?"
 
-Updated on: [12/8/2024]
+Updated on: [13/8/2024]
 <!-- #jokeEnd -->
