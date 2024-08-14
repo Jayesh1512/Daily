@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-A man once told Jayesh that he and everyone would be wise to learn to "expect the unexpected" in life's journey. Jayesh then immediately roundhouse kicked the man in the face and said, "did you expect that?"
+Jayesh can tweet a novel.
 
-Updated on: [13/8/2024]
+Updated on: [14/8/2024]
 <!-- #jokeEnd -->
