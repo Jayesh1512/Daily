@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can tweet a novel.
+When Jayesh turned nine he finally kicked his parents the fuck out of his house.
 
-Updated on: [14/8/2024]
+Updated on: [15/8/2024]
 <!-- #jokeEnd -->
