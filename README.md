@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When Jayesh turned nine he finally kicked his parents the fuck out of his house.
+Freddy fazbear and his friends dont scare Jayesh.....Chuck norris beats up Freddy and his friends.
 
-Updated on: [15/8/2024]
+Updated on: [16/8/2024]
 <!-- #jokeEnd -->
