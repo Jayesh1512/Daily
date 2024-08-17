@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Freddy fazbear and his friends dont scare Jayesh.....Chuck norris beats up Freddy and his friends.
+Jayesh can eat the flesh of banana without peeling it.
 
-Updated on: [16/8/2024]
+Updated on: [17/8/2024]
 <!-- #jokeEnd -->
