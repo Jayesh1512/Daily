@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If you write "To Jayesh" on an envelope and post it, it will be delivered to THE Jayesh, from anywhere in the world.
+Jayesh once received a blowjob from a slim lingerie model. That model is now known as Susan Boyle.
 
-Updated on: [20/8/2024]
+Updated on: [21/8/2024]
 <!-- #jokeEnd -->
