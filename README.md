@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once received a blowjob from a slim lingerie model. That model is now known as Susan Boyle.
+Superman is faster then a speeding bullet,Jayesh is faster then the speed of light
 
-Updated on: [21/8/2024]
+Updated on: [22/8/2024]
 <!-- #jokeEnd -->
