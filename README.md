@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Superman is faster then a speeding bullet,Jayesh is faster then the speed of light
+Jayesh once went skydiving, but promised never to do it again. One Grand Canyon is enough.
 
-Updated on: [22/8/2024]
+Updated on: [23/8/2024]
 <!-- #jokeEnd -->
