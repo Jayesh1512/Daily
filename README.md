@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once went skydiving, but promised never to do it again. One Grand Canyon is enough.
+If it looks like a duck, walks like a duck and even quacks like a duck but Jayesh says it's a rare red-breasted sapsucker in heat... It's a rare red-breasted sapsucker and be thankful Chuck let you agree with him.
 
-Updated on: [23/8/2024]
+Updated on: [24/8/2024]
 <!-- #jokeEnd -->
