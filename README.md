@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh likes his coffee half and half: half coffee grounds, half wood-grain alcohol.
+Jayesh made the mayans extinct.
 
-Updated on: [26/8/2024]
+Updated on: [27/8/2024]
 <!-- #jokeEnd -->
