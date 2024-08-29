@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When Jayesh goes to the club he doesnt dance, he does "the Jayesh boogey" aka roundhouse kicking everyone
+Jayesh can clap with one hand.
 
-Updated on: [28/8/2024]
+Updated on: [29/8/2024]
 <!-- #jokeEnd -->
