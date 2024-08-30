@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can clap with one hand.
+Jayesh once appeared on Cartoon Network. CN is now known as Jayesh.
 
-Updated on: [29/8/2024]
+Updated on: [30/8/2024]
 <!-- #jokeEnd -->
