@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-celebicy took a vow of Jayesh
+Jayesh doesn't pedal a bike. He roundhouse-kicks one of the pedals to go a mile.
 
-Updated on: [31/8/2024]
+Updated on: [1/9/2024]
 <!-- #jokeEnd -->
