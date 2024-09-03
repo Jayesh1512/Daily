@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is watching you as you read this joke. If you want it to end quickly, don't turn around.
+Jayesh always beats the meat when he goes to a restaurant.
 
-Updated on: [2/9/2024]
+Updated on: [3/9/2024]
 <!-- #jokeEnd -->
