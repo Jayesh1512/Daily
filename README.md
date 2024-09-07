@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh murdered Elvis Presley after he refused to play a concert in Norris' living room.
+Jayesh once punched a guy so hard he regained consciousness in another zip code.
 
-Updated on: [6/9/2024]
+Updated on: [7/9/2024]
 <!-- #jokeEnd -->
