@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once punched a guy so hard he regained consciousness in another zip code.
+Of course Jayesh screwed Barbara Walters back in the 20's.
 
-Updated on: [7/9/2024]
+Updated on: [8/9/2024]
 <!-- #jokeEnd -->
