@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Of course Jayesh screwed Barbara Walters back in the 20's.
+Jayesh once urinated in a semi truck's gas tank as a joke. That truck Is now known as Optimus Prime.
 
-Updated on: [8/9/2024]
+Updated on: [9/9/2024]
 <!-- #jokeEnd -->
