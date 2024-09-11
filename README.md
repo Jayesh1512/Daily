@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once started a fire with only what was around him. He was on an iceberg.
+Physicists have recently discovered that the universe began when Jayesh roundhouse-kicked a singularity (the big bang).
 
-Updated on: [10/9/2024]
+Updated on: [11/9/2024]
 <!-- #jokeEnd -->
