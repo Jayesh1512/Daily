@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once won American idle by riding a unicycle
+Jayesh rounddhouse kicks kittens and baby's for fun.
 
-Updated on: [13/9/2024]
+Updated on: [14/9/2024]
 <!-- #jokeEnd -->
