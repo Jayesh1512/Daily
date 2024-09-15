@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh rounddhouse kicks kittens and baby's for fun.
+Jayesh uspio uraditi zadaću da mu prođu svi autotestovi troll:
 
-Updated on: [14/9/2024]
+Updated on: [15/9/2024]
 <!-- #jokeEnd -->
