@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh uspio uraditi zadaću da mu prođu svi autotestovi troll:
+Jayesh once microwaved a bowl of instant oatmeal for Chef Gordon Ramsay who understandably loved it so much that he asked Chuck for the recipe.
 
-Updated on: [15/9/2024]
+Updated on: [16/9/2024]
 <!-- #jokeEnd -->
