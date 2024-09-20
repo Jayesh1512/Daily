@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Did you know that Jayesh was in every Star Wars movie? He was "The Force".
+Jayesh once broke the sound barrier in a rowboat.
 
-Updated on: [19/9/2024]
+Updated on: [20/9/2024]
 <!-- #jokeEnd -->
