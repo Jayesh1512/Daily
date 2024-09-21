@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once broke the sound barrier in a rowboat.
+Godzilla is a Japanese rendition of Jayesh' first visit to Tokyo.
 
-Updated on: [20/9/2024]
+Updated on: [21/9/2024]
 <!-- #jokeEnd -->
