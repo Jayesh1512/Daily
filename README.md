@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Godzilla is a Japanese rendition of Jayesh' first visit to Tokyo.
+if someone where to shoot you Jayesh could come out of nowhere kill you 5 times and kill the guy who shoots for trying to take his kill before the bullets even left the barrel
 
-Updated on: [21/9/2024]
+Updated on: [22/9/2024]
 <!-- #jokeEnd -->
