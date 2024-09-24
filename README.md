@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Tungsten steel was discovered in Jayesh' DNA.
+Jayesh is never 'armed to the teeth'. He is armed WITH teeth.
 
-Updated on: [23/9/2024]
+Updated on: [24/9/2024]
 <!-- #jokeEnd -->
