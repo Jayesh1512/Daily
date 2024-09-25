@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is never 'armed to the teeth'. He is armed WITH teeth.
+the reason the Grudge crokes is because Jayesh roundhouse kicked it in the throat
 
-Updated on: [24/9/2024]
+Updated on: [25/9/2024]
 <!-- #jokeEnd -->
