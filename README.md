@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-the reason the Grudge crokes is because Jayesh roundhouse kicked it in the throat
+Jayesh wins NASCAR races with all right turns.
 
-Updated on: [25/9/2024]
+Updated on: [26/9/2024]
 <!-- #jokeEnd -->
