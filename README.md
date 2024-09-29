@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The One ring from LOTR is an undigested cheerio that Jayesh had for breakfast.
+After meals, Jayesh picks his teeth with a pneumatic drill
 
-Updated on: [28/9/2024]
+Updated on: [29/9/2024]
 <!-- #jokeEnd -->
