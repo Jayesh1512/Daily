@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-After meals, Jayesh picks his teeth with a pneumatic drill
+Jayesh uses lemon juice for eye drops
 
-Updated on: [29/9/2024]
+Updated on: [30/9/2024]
 <!-- #jokeEnd -->
