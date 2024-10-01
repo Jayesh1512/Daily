@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh uses lemon juice for eye drops
+The atomic bomb is actually made of a contained Jayesh fart.
 
-Updated on: [30/9/2024]
+Updated on: [1/10/2024]
 <!-- #jokeEnd -->
