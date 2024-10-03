@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-A sign at the entrance to NorrisWorld: 'You need to be at least this tall (30 microns) to die from a Jayesh roundhouse kick.'
+Jayesh made Russell Crowe cry.
 
-Updated on: [2/10/2024]
+Updated on: [3/10/2024]
 <!-- #jokeEnd -->
