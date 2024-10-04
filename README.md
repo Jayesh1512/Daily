@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh made Russell Crowe cry.
+To Jayesh, everything contains a vulnerability.
 
-Updated on: [3/10/2024]
+Updated on: [4/10/2024]
 <!-- #jokeEnd -->
