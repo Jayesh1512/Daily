@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh' father is Jayesh, his mother is America, his brother is freedom and his other brother is Sam... Sam Norris. Jayesh loves his family dearly, except for Sam, that is why Sam no longer exists.
+If any one of Jayesh' sextapes was ever released publicly, it would win the Best Picture Oscar
 
-Updated on: [5/10/2024]
+Updated on: [6/10/2024]
 <!-- #jokeEnd -->
