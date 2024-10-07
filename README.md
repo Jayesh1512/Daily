@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If any one of Jayesh' sextapes was ever released publicly, it would win the Best Picture Oscar
+Only God is allowed to edit Jayesh' Wikipedia page.
 
-Updated on: [6/10/2024]
+Updated on: [7/10/2024]
 <!-- #jokeEnd -->
