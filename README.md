@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-corey sucks.....Jayesh approves this message
+the real reason king kong fell was because he realized he had awaken Jayesh so he commited suicide.
 
-Updated on: [11/10/2024]
+Updated on: [12/10/2024]
 <!-- #jokeEnd -->
