@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Nature gets back to Jayesh
+Jayesh has had his left arm amputated - twice.
 
-Updated on: [15/10/2024]
+Updated on: [16/10/2024]
 <!-- #jokeEnd -->
