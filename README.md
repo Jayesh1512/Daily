@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can make a paraplegic run for their life.
+They say laughter is the greatest medicine i disagree Jayesh is
 
-Updated on: [18/10/2024]
+Updated on: [19/10/2024]
 <!-- #jokeEnd -->
