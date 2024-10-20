@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-They say laughter is the greatest medicine i disagree Jayesh is
+when Jayesh wants to eat an egg, the chicken lays an omlette for him.
 
-Updated on: [19/10/2024]
+Updated on: [20/10/2024]
 <!-- #jokeEnd -->
