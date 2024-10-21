@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-when Jayesh wants to eat an egg, the chicken lays an omlette for him.
+After The Hulk lost an arm wrestling contest with Jayesh, he turned green with envy.
 
-Updated on: [20/10/2024]
+Updated on: [21/10/2024]
 <!-- #jokeEnd -->
