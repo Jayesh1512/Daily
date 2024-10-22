@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-After The Hulk lost an arm wrestling contest with Jayesh, he turned green with envy.
+Want to cure hiccups? Just pretend Jayesh is angry at you. As long as that thought doesn't make you die of fright, you'll never have hiccups again.
 
-Updated on: [21/10/2024]
+Updated on: [22/10/2024]
 <!-- #jokeEnd -->
