@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh doesn't wear condoms because there's no protections from Jayesh.
+When Jayesh was created, he destroyed his own mold.
 
-Updated on: [28/10/2024]
+Updated on: [29/10/2024]
 <!-- #jokeEnd -->
