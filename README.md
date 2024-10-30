@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When Jayesh was created, he destroyed his own mold.
+If Jayesh imagines roundhouse kicking someone, that roundhouse kick actually hurts someone. Try not to imagine him imagining that.
 
-Updated on: [29/10/2024]
+Updated on: [30/10/2024]
 <!-- #jokeEnd -->
