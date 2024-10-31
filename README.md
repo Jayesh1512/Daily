@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If Jayesh imagines roundhouse kicking someone, that roundhouse kick actually hurts someone. Try not to imagine him imagining that.
+Jayesh does not own a stove, oven, or microwave , because revenge is a dish best served cold.
 
-Updated on: [30/10/2024]
+Updated on: [31/10/2024]
 <!-- #jokeEnd -->
