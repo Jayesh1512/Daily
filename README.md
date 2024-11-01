@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh does not own a stove, oven, or microwave , because revenge is a dish best served cold.
+The reason the slinky was invented is because there is no condom long enough for Chuck norris's dick. It failed miserablly now he has to were a live ratlle snake as one.
 
-Updated on: [31/10/2024]
+Updated on: [1/11/2024]
 <!-- #jokeEnd -->
