@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Every Gun family owns a Jayesh for self-protection.
+Jayesh went to court once, and he lost. He roundhouse kicked the judge in the head so hard that all of justice became blind.
 
-Updated on: [2/11/2024]
+Updated on: [3/11/2024]
 <!-- #jokeEnd -->
