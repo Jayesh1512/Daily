@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh went to court once, and he lost. He roundhouse kicked the judge in the head so hard that all of justice became blind.
+Jayesh now lives in Eagle Pass. He has a set of balls made out of brass. When they clang together, They cause stormy weather. And lighting shoots out of his ass.
 
-Updated on: [3/11/2024]
+Updated on: [4/11/2024]
 <!-- #jokeEnd -->
