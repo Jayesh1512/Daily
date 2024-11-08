@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Only God can judge the whole mankind. Only Jayesh can judge God
+Jayesh once played chicken with a train in an underground tunnel and won.
 
-Updated on: [7/11/2024]
+Updated on: [8/11/2024]
 <!-- #jokeEnd -->
