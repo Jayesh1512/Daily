@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once played chicken with a train in an underground tunnel and won.
+When Gotham City needs help, they call on Batman. When Batman needs help, he calls on Jayesh.
 
-Updated on: [8/11/2024]
+Updated on: [9/11/2024]
 <!-- #jokeEnd -->
