@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When Gotham City needs help, they call on Batman. When Batman needs help, he calls on Jayesh.
+If Jayesh dies, he doesn't randomly go to heaven or hell. He decides if to go to heaven or hell.
 
-Updated on: [9/11/2024]
+Updated on: [10/11/2024]
 <!-- #jokeEnd -->
