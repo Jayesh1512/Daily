@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If Jayesh dies, he doesn't randomly go to heaven or hell. He decides if to go to heaven or hell.
+Jayesh was once so drunk that he tripped and the ejecta that was launched into outer space formed the moon.
 
-Updated on: [10/11/2024]
+Updated on: [11/11/2024]
 <!-- #jokeEnd -->
