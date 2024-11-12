@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh was once so drunk that he tripped and the ejecta that was launched into outer space formed the moon.
+For Jayesh, NP-Hard = O(1).
 
-Updated on: [11/11/2024]
+Updated on: [12/11/2024]
 <!-- #jokeEnd -->
