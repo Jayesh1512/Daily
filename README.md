@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-For Jayesh, NP-Hard = O(1).
+How's your life Jayesh?
 
-Updated on: [12/11/2024]
+Updated on: [13/11/2024]
 <!-- #jokeEnd -->
