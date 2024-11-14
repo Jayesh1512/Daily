@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-How's your life Jayesh?
+Jayesh has a .50 BMG Derringer.
 
-Updated on: [13/11/2024]
+Updated on: [14/11/2024]
 <!-- #jokeEnd -->
