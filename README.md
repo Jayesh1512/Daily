@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once kicked a baby beluga whale into puberty.
+CHUCK NORRIS SMELLS LIKE SHIT
 
-Updated on: [17/11/2024]
+Updated on: [18/11/2024]
 <!-- #jokeEnd -->
