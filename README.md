@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-CHUCK NORRIS SMELLS LIKE SHIT
+Thanks to Jayesh, the astrological sign 'Virgo' will now have to be renamed 'Pregno'.
 
-Updated on: [18/11/2024]
+Updated on: [19/11/2024]
 <!-- #jokeEnd -->
