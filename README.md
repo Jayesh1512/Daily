@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Thanks to Jayesh, the astrological sign 'Virgo' will now have to be renamed 'Pregno'.
+Jayesh once roundhouse house kicked a man for asking him who invented the Roundhouse Kick.
 
-Updated on: [19/11/2024]
+Updated on: [20/11/2024]
 <!-- #jokeEnd -->
