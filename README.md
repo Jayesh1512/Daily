@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh' cell phone of choice...........the Blackberry IPhone
+The active ingredient in Viagra, Cialis and Levitra comes from the seed of Jayesh.
 
-Updated on: [21/11/2024]
+Updated on: [22/11/2024]
 <!-- #jokeEnd -->
