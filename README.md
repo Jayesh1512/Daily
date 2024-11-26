@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can masturbate with no hands.
+a cross died on Jayesh
 
-Updated on: [25/11/2024]
+Updated on: [26/11/2024]
 <!-- #jokeEnd -->
