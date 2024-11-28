@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-One time while hunting deer, Jayesh made a kill shot from 300 yards. No big deal u say? his weapon of choice was a squirt gun.
+When Jayesh brews a strong pot of coffee he uses a flame thrower and 1/2 of Columbia's coffee trees.
 
-Updated on: [27/11/2024]
+Updated on: [28/11/2024]
 <!-- #jokeEnd -->
