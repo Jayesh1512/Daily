@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh won the New York Marathon while steaming some crab legs in Austin, TX
+Next to Jayesh, the Dos Equis guy is the Least Interesting Man.
 
-Updated on: [29/11/2024]
+Updated on: [30/11/2024]
 <!-- #jokeEnd -->
