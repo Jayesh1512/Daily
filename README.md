@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Next to Jayesh, the Dos Equis guy is the Least Interesting Man.
+If Mohammed wont go to the mountain then Jayesh will fucking drag him there.
 
-Updated on: [30/11/2024]
+Updated on: [1/12/2024]
 <!-- #jokeEnd -->
