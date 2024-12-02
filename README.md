@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If Mohammed wont go to the mountain then Jayesh will fucking drag him there.
+Jayesh once cut a man into two equal diametrically opposing sections by giving him a wedgie.
 
-Updated on: [1/12/2024]
+Updated on: [2/12/2024]
 <!-- #jokeEnd -->
