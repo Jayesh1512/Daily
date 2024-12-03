@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once cut a man into two equal diametrically opposing sections by giving him a wedgie.
+The U2 song "Sunday Bloody Sunday" was written to depict the day of the week when Jayesh has sex with Irish women.
 
-Updated on: [2/12/2024]
+Updated on: [3/12/2024]
 <!-- #jokeEnd -->
