@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The U2 song "Sunday Bloody Sunday" was written to depict the day of the week when Jayesh has sex with Irish women.
+The Marquis de Sade invented wrought iron testicle clamps. Jayesh univented them which is why you've never heard of them before. Jayesh prefers to destroy your balls with a roundhouse kick.
 
-Updated on: [3/12/2024]
+Updated on: [4/12/2024]
 <!-- #jokeEnd -->
