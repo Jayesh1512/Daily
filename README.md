@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh breaks RSA 128-bit encrypted codes in milliseconds.
+ChuCk Norris looks better of facebook..
 
-Updated on: [5/12/2024]
+Updated on: [6/12/2024]
 <!-- #jokeEnd -->
