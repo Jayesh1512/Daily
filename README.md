@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-ChuCk Norris looks better of facebook..
+Jayesh recently invented the roundhouse headbutt.
 
-Updated on: [6/12/2024]
+Updated on: [7/12/2024]
 <!-- #jokeEnd -->
