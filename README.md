@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh requires all women with false teeth to remove them and replace them with Brillo Pads before giving him a blow job.
+Jayesh can talk backwards. In Chinese.
 
-Updated on: [9/12/2024]
+Updated on: [10/12/2024]
 <!-- #jokeEnd -->
