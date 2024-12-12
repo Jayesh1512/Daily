@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-What is the definition of infinity? The number of people Jayesh has roundhouse kicked in the face.
+Jayesh uses the dimensional tear in his kitchen as a garbage disposal.
 
-Updated on: [11/12/2024]
+Updated on: [12/12/2024]
 <!-- #jokeEnd -->
