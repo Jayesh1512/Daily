@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh uses the dimensional tear in his kitchen as a garbage disposal.
+Jayesh caught a chicken using a dead alligator as bait.
 
-Updated on: [12/12/2024]
+Updated on: [13/12/2024]
 <!-- #jokeEnd -->
