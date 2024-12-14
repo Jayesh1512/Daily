@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh caught a chicken using a dead alligator as bait.
+Jayesh knows what Scotty doesn't.
 
-Updated on: [13/12/2024]
+Updated on: [14/12/2024]
 <!-- #jokeEnd -->
