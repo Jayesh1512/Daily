@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh knows what Scotty doesn't.
+When you die, Jayesh will find your grave and roundhouse kick you.
 
-Updated on: [14/12/2024]
+Updated on: [15/12/2024]
 <!-- #jokeEnd -->
