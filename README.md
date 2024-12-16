@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When you die, Jayesh will find your grave and roundhouse kick you.
+Jayesh can slit your throat with his pinkie toenail.
 
-Updated on: [15/12/2024]
+Updated on: [16/12/2024]
 <!-- #jokeEnd -->
