@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can slit your throat with his pinkie toenail.
+Jayesh tells Scorpian to "get over Here"
 
-Updated on: [16/12/2024]
+Updated on: [17/12/2024]
 <!-- #jokeEnd -->
