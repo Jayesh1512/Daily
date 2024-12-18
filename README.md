@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh tells Scorpian to "get over Here"
+Jayesh doesnt believe in religion, religion believes in Jayesh
 
-Updated on: [17/12/2024]
+Updated on: [18/12/2024]
 <!-- #jokeEnd -->
