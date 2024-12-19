@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh doesnt believe in religion, religion believes in Jayesh
+The Catholic Church has offered Jayesh the position of Pope at least four times...even though Jayesh isn't Catholic.
 
-Updated on: [18/12/2024]
+Updated on: [19/12/2024]
 <!-- #jokeEnd -->
