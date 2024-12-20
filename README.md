@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The Catholic Church has offered Jayesh the position of Pope at least four times...even though Jayesh isn't Catholic.
+When Jayesh watches Dora the Explora, Dora doesn't ask any questions.
 
-Updated on: [19/12/2024]
+Updated on: [20/12/2024]
 <!-- #jokeEnd -->
