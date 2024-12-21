@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When Jayesh watches Dora the Explora, Dora doesn't ask any questions.
+all the world records were set by Jayesh. the people listed are in second place.
 
-Updated on: [20/12/2024]
+Updated on: [21/12/2024]
 <!-- #jokeEnd -->
