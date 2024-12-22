@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-all the world records were set by Jayesh. the people listed are in second place.
+Jayesh' wristwatch is accurate to one second every ice age.
 
-Updated on: [21/12/2024]
+Updated on: [22/12/2024]
 <!-- #jokeEnd -->
