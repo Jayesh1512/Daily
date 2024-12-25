@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh masturbates with a handful of gunpowder.
+Jayesh created the Universe. Astrophysicist Stephen Hawking has apologized for the "Big Bang" theory.
 
-Updated on: [24/12/2024]
+Updated on: [25/12/2024]
 <!-- #jokeEnd -->
