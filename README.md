@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh knows which came first...the chicken or the egg....he'll only tell the person who beats him in battle. So I guess we may never know
+Nobody knows Easter better than CHUCK NORRIS!!
 
-Updated on: [27/12/2024]
+Updated on: [28/12/2024]
 <!-- #jokeEnd -->
