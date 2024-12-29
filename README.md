@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Nobody knows Easter better than CHUCK NORRIS!!
+Jayesh receives mothers day cards for giving birth to twins: WAR AND PEACE!!!!
 
-Updated on: [28/12/2024]
+Updated on: [29/12/2024]
 <!-- #jokeEnd -->
