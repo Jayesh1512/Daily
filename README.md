@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh receives mothers day cards for giving birth to twins: WAR AND PEACE!!!!
+Jayesh knows where Carmen Sandiego is.
 
-Updated on: [29/12/2024]
+Updated on: [30/12/2024]
 <!-- #jokeEnd -->
