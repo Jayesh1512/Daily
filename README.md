@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh invented the Shotgun Enema.
+Aliens do exist, they are just waiting for Jayesh to die before they invade
 
-Updated on: [31/12/2024]
+Updated on: [1/1/2025]
 <!-- #jokeEnd -->
