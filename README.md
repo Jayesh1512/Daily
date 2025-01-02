@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Aliens do exist, they are just waiting for Jayesh to die before they invade
+How many Jayesh' does it take to change a light bulb? None, Jayesh prefers to kill in the dark.
 
-Updated on: [1/1/2025]
+Updated on: [2/1/2025]
 <!-- #jokeEnd -->
