@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is the only person that can punch a cyclops between the eye.
+Jayesh reports noobs and the noobs automaticly be banned from (Insert online site here) unlike the others
 
-Updated on: [5/1/2025]
+Updated on: [6/1/2025]
 <!-- #jokeEnd -->
