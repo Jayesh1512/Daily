@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh reports noobs and the noobs automaticly be banned from (Insert online site here) unlike the others
+Every-so-often Jayesh will cut a hole into a cement block and proceed to fuck it because he really enjoys "rough sex".
 
-Updated on: [6/1/2025]
+Updated on: [7/1/2025]
 <!-- #jokeEnd -->
