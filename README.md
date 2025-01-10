@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When night falls in the forest, the darkness gets afraid of Jayesh
+To prove his mental strenght Jayesh listened to Metallica/Lou Reed-collaboration "Lulu" on repeat for a whole day.
 
-Updated on: [9/1/2025]
+Updated on: [10/1/2025]
 <!-- #jokeEnd -->
