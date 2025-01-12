@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The only state where Jayesh has never been is Virginia.
+Every once in awhile Jayesh goes on vacation to asia or the Middle-East. While there he usually gets into a bar-fight. Afterwards, this is remembered as a "war"
 
-Updated on: [11/1/2025]
+Updated on: [12/1/2025]
 <!-- #jokeEnd -->
