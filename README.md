@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once caught a limit of Amazon River piranha bare-handed.
+Dont ever tell Jayesh you like unexpected surprises.
 
-Updated on: [14/1/2025]
+Updated on: [15/1/2025]
 <!-- #jokeEnd -->
