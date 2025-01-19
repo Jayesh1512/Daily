@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh isn't the man he used to be. He's even better.
+Only Expendables 2 earned its title as an All Star Movie, and that was merely by the introduction of Jayesh.
 
-Updated on: [18/1/2025]
+Updated on: [19/1/2025]
 <!-- #jokeEnd -->
