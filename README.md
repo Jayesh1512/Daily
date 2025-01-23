@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is so fast that he can turn off the light switch and get in bed before the room gets dark.
+Jayesh uses sandpaper condoms
 
-Updated on: [22/1/2025]
+Updated on: [23/1/2025]
 <!-- #jokeEnd -->
