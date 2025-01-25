@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh lives in a yellow submarine. A yellow submarine. Yellow submarine.
+The Iraq war is over because the US sent Jayesh to Iraq
 
-Updated on: [24/1/2025]
+Updated on: [25/1/2025]
 <!-- #jokeEnd -->
