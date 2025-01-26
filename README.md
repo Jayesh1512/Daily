@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The Iraq war is over because the US sent Jayesh to Iraq
+When the Boogeyman goes to sleep every night, he checks his closet for Jayesh. Another legend is that Jayesh sleeps with a night light. Not because Jayesh is afraid of the dark, but the dark is afraid of Jayesh.
 
-Updated on: [25/1/2025]
+Updated on: [26/1/2025]
 <!-- #jokeEnd -->
