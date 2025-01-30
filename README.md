@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is the only one that knows the meaning of life!
+When playing Minecraft, make a new world with the name and seed both being "Jayesh". Even on peaceful, you will be surrounded by 1,000,000 endermen when at the spawn.
 
-Updated on: [29/1/2025]
+Updated on: [30/1/2025]
 <!-- #jokeEnd -->
