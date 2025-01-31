@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When playing Minecraft, make a new world with the name and seed both being "Jayesh". Even on peaceful, you will be surrounded by 1,000,000 endermen when at the spawn.
+When Jayesh recycles paper it turns right back into trees
 
-Updated on: [30/1/2025]
+Updated on: [31/1/2025]
 <!-- #jokeEnd -->
