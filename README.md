@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When Jayesh recycles paper it turns right back into trees
+Tht legendary Thunderbird is Jayesh's pet bird.
 
-Updated on: [31/1/2025]
+Updated on: [1/2/2025]
 <!-- #jokeEnd -->
