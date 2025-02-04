@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh only keeps in touch with his first nine dozen kids - all the others around the world get a quarterly newsletter
+The show Survivor had the original premise of putting people on an island with Jayesh. There were no survivors, and nobody is brave enough to go to the island to retrieve the footage.
 
-Updated on: [3/2/2025]
+Updated on: [4/2/2025]
 <!-- #jokeEnd -->
