@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The show Survivor had the original premise of putting people on an island with Jayesh. There were no survivors, and nobody is brave enough to go to the island to retrieve the footage.
+Jayesh rode his sway-backed mule named Thudly to the 2014 Kentucky Derby winners circle.
 
-Updated on: [4/2/2025]
+Updated on: [5/2/2025]
 <!-- #jokeEnd -->
