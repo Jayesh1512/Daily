@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh has been meaning to get a penis reduction for years now, but his pride won't allow him to accept the countless invitations from limping, bow-legged women to pay for the procedure.
+There is in fact an 'I' in Norris, but there is no 'team'. Not even close.
 
-Updated on: [16/2/2025]
+Updated on: [17/2/2025]
 <!-- #jokeEnd -->
