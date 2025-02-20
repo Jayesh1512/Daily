@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If you stare at the american flag for long enough, you will see a 3-D image of Jayesh.
+Jayesh killed the greek warrior achilles with a roundhouse kick to his face. Then one night Jayesh made a joke he says "Ah-kill-hes face!"
 
-Updated on: [19/2/2025]
+Updated on: [20/2/2025]
 <!-- #jokeEnd -->
