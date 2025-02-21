@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh killed the greek warrior achilles with a roundhouse kick to his face. Then one night Jayesh made a joke he says "Ah-kill-hes face!"
+When playing Minecraft, make a new world with the name and seed both being "Jayesh". Even on peaceful, you will be surrounded by 1,000,000 endermen when at the spawn.
 
-Updated on: [20/2/2025]
+Updated on: [21/2/2025]
 <!-- #jokeEnd -->
