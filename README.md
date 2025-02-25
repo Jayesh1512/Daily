@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can sing in a bass voice that makes Barry White and Lou Rawls sound like members of The Chipmunks by comparison.
+Jayesh can rob a drunk guy's gun store.
 
-Updated on: [24/2/2025]
+Updated on: [25/2/2025]
 <!-- #jokeEnd -->
