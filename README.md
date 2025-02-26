@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can rob a drunk guy's gun store.
+Jayesh can copy/paste the text from a captcha.
 
-Updated on: [25/2/2025]
+Updated on: [26/2/2025]
 <!-- #jokeEnd -->
