@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can copy/paste the text from a captcha.
+The reason no one has found tupacs and notorious bigs killers are because it was Jayesh who killed them
 
-Updated on: [26/2/2025]
+Updated on: [27/2/2025]
 <!-- #jokeEnd -->
