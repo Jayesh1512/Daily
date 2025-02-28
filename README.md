@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The reason no one has found tupacs and notorious bigs killers are because it was Jayesh who killed them
+Jayesh once acquired two Harley-Davidsons by Karate-chopping a muscle car in half.
 
-Updated on: [27/2/2025]
+Updated on: [28/2/2025]
 <!-- #jokeEnd -->
