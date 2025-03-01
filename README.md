@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once acquired two Harley-Davidsons by Karate-chopping a muscle car in half.
+Tom Clancy has to pay royalties to Jayesh because "The Sum of All Fears" is the name of Jayesh' autobiography.
 
-Updated on: [28/2/2025]
+Updated on: [1/3/2025]
 <!-- #jokeEnd -->
