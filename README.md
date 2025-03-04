@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-In fine print on the last page of the Guinness Book of World Records it notes that all world records are held by Jayesh, and those listed in the book are simply the closest anyone else has ever gotten.
+If you ever find yourself watching a Total Gym infomercial, take comfort in the fact that Jayesh will not kill you at that exact moment. However, if you change the channel, all bets are off. The best thing to do is to order twelve of them immediately.
 
-Updated on: [3/3/2025]
+Updated on: [4/3/2025]
 <!-- #jokeEnd -->
