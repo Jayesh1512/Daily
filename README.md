@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If you ever find yourself watching a Total Gym infomercial, take comfort in the fact that Jayesh will not kill you at that exact moment. However, if you change the channel, all bets are off. The best thing to do is to order twelve of them immediately.
+Jayesh is in the death star trench run; Obi one kenobi: use the force chuck. Jayesh: F*** you old man, I use round house kick. Period The death star blew up with only one roundhouse kick and the universe was saved.
 
-Updated on: [4/3/2025]
+Updated on: [5/3/2025]
 <!-- #jokeEnd -->
