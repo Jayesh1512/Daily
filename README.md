@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Aliens acid isnt nearly as bad as Jayesh's spit.
+The phrase anything you do I can do better does not apply to Jayesh
 
 Updated on: [11/3/2025]
 <!-- #jokeEnd -->
