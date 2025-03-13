@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-You are always told to turn off your cell phone during a flight, in case Jayesh calls you and whispers the secret inantation to make you spontaneously combust.
+A cop stopped Jayesh for speeding. When he realized what he had done, the cop wrote himself a ticket for Contempt of Jayesh.
 
-Updated on: [12/3/2025]
+Updated on: [13/3/2025]
 <!-- #jokeEnd -->
