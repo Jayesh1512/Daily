@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-A cop stopped Jayesh for speeding. When he realized what he had done, the cop wrote himself a ticket for Contempt of Jayesh.
+Jayesh once played a game of Russian roulette with a fully-loaded gun. He won.
 
-Updated on: [13/3/2025]
+Updated on: [14/3/2025]
 <!-- #jokeEnd -->
