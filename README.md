@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once played a game of Russian roulette with a fully-loaded gun. He won.
+Jayesh can get to the center a Tootsie Pop, in just one lick.
 
-Updated on: [14/3/2025]
+Updated on: [15/3/2025]
 <!-- #jokeEnd -->
