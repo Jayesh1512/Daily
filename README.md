@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh Plus your mom equals you
+Jesus wears a bracelet that says wwcnd (what would Jayesh do?)
 
-Updated on: [17/3/2025]
+Updated on: [18/3/2025]
 <!-- #jokeEnd -->
