@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jesus wears a bracelet that says wwcnd (what would Jayesh do?)
+There is no angel upon Jayesh' shoulder... the devil sits there. His other shoulder is where he rests the bazooka
 
-Updated on: [18/3/2025]
+Updated on: [19/3/2025]
 <!-- #jokeEnd -->
