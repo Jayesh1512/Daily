@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-There is no angel upon Jayesh' shoulder... the devil sits there. His other shoulder is where he rests the bazooka
+Jayesh found the end of pie.
 
-Updated on: [19/3/2025]
+Updated on: [20/3/2025]
 <!-- #jokeEnd -->
