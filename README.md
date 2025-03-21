@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh found the end of pie.
+One time, Jayesh was crossing the street without looking both ways. He ran over a car.
 
-Updated on: [20/3/2025]
+Updated on: [21/3/2025]
 <!-- #jokeEnd -->
