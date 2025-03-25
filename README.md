@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The city of Atlantis was a thriving one until the day its leader insulted Jayesh.
+the big bad wolf could not blow down the brick house, Jayesh simply held out his fist and the house exploded.
 
-Updated on: [24/3/2025]
+Updated on: [25/3/2025]
 <!-- #jokeEnd -->
