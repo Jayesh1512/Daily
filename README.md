@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-the big bad wolf could not blow down the brick house, Jayesh simply held out his fist and the house exploded.
+When he was young, Jayesh wore a bear trap as teeth braces.
 
-Updated on: [25/3/2025]
+Updated on: [26/3/2025]
 <!-- #jokeEnd -->
