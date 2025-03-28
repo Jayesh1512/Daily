@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is so cool, ice cubes want to be exactly like him.
+When Clarke Kent goes into a phonebox Superman comes out. When Jayesh goes into a phonebox... Jayesh comes out.
 
-Updated on: [27/3/2025]
+Updated on: [28/3/2025]
 <!-- #jokeEnd -->
