@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-CHUCK NORRIS CAN PLAY HIS XBOX USING A CALCULATOR
+Jayesh once ate an entire bottle of sleeping pills. They made him blink.
 
-Updated on: [29/3/2025]
+Updated on: [30/3/2025]
 <!-- #jokeEnd -->
