@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once ate an entire bottle of sleeping pills. They made him blink.
+MMA fighters wet themselves when Jayesh enters the room.
 
-Updated on: [30/3/2025]
+Updated on: [31/3/2025]
 <!-- #jokeEnd -->
