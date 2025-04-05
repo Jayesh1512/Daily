@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh went bungy jumping without a harness.
+Jayesh built the hostpital he was born in.
 
-Updated on: [4/4/2025]
+Updated on: [5/4/2025]
 <!-- #jokeEnd -->
