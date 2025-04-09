@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh' ego wears a cape and a crown.
+Jayesh was on one part on Titanic.... He was the iceberg!
 
-Updated on: [8/4/2025]
+Updated on: [9/4/2025]
 <!-- #jokeEnd -->
