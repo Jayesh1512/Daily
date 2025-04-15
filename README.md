@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh won The 24 Hours of Le Mans auto race in three hours.
+Jayesh drives a solar powered car at night.
 
-Updated on: [14/4/2025]
+Updated on: [15/4/2025]
 <!-- #jokeEnd -->
