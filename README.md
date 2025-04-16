@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh drives a solar powered car at night.
+When all else fails.....Jayesh doesn't.
 
-Updated on: [15/4/2025]
+Updated on: [16/4/2025]
 <!-- #jokeEnd -->
