@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When all else fails.....Jayesh doesn't.
+If Jayesh gave you a back rub, the coroner would swear you swallowed a hand grenade.
 
-Updated on: [16/4/2025]
+Updated on: [17/4/2025]
 <!-- #jokeEnd -->
