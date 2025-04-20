@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh rocks a sweet beard of power.
+Jayesh smokes only the finest herb through the barrel of a .30-06
 
-Updated on: [19/4/2025]
+Updated on: [20/4/2025]
 <!-- #jokeEnd -->
