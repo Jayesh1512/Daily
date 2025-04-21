@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh smokes only the finest herb through the barrel of a .30-06
+Jayesh' personal foot masseuse has 2 permanent black eyes, 7 broken ribs, a bloody nose and a dislodged jaw.
 
-Updated on: [20/4/2025]
+Updated on: [21/4/2025]
 <!-- #jokeEnd -->
