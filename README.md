@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh' personal foot masseuse has 2 permanent black eyes, 7 broken ribs, a bloody nose and a dislodged jaw.
+Simon plays Jayesh says.
 
-Updated on: [21/4/2025]
+Updated on: [22/4/2025]
 <!-- #jokeEnd -->
