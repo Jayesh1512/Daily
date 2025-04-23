@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Simon plays Jayesh says.
+Jayesh thinks somebody has no sense of humor & needs a roundhouse to the rucksack.
 
-Updated on: [22/4/2025]
+Updated on: [23/4/2025]
 <!-- #jokeEnd -->
