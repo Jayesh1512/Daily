@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh thinks somebody has no sense of humor & needs a roundhouse to the rucksack.
+There are no facts about Jayesh - only understatements.
 
-Updated on: [23/4/2025]
+Updated on: [24/4/2025]
 <!-- #jokeEnd -->
