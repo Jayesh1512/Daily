@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-There are no facts about Jayesh - only understatements.
+God comes over to Jayeshes house to borrow sugar
 
-Updated on: [24/4/2025]
+Updated on: [25/4/2025]
 <!-- #jokeEnd -->
