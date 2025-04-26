@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-God comes over to Jayeshes house to borrow sugar
+Jayesh doesn't get into car accidents, cars get into Jayesh accidents.
 
-Updated on: [25/4/2025]
+Updated on: [26/4/2025]
 <!-- #jokeEnd -->
