@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh does not have elephantitis on his balls. He is just well-endowed.
+If you dont believe God exists, he doesnt believe you exist, and soon you should expect an explosive roundhouse kick to the face....(Jayesh is God.)
 
-Updated on: [27/4/2025]
+Updated on: [28/4/2025]
 <!-- #jokeEnd -->
