@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can make a slinky go up the stairs.
+Jayesh is suing the Korean pop singer PSY for copyright infringement on the phrase Gangnam Style and the horse riding dance
 
-Updated on: [29/4/2025]
+Updated on: [30/4/2025]
 <!-- #jokeEnd -->
