@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is suing the Korean pop singer PSY for copyright infringement on the phrase Gangnam Style and the horse riding dance
+When Jayesh walks through dark alleys, muggers give Chuck THEIR wallets.
 
-Updated on: [30/4/2025]
+Updated on: [1/5/2025]
 <!-- #jokeEnd -->
