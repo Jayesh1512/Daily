@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When Jayesh walks through dark alleys, muggers give Chuck THEIR wallets.
+Just to show off, Jayesh will occasionally use his testicles in nunchuck demonstrations.
 
-Updated on: [1/5/2025]
+Updated on: [2/5/2025]
 <!-- #jokeEnd -->
