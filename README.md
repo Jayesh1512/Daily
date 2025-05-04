@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If your teacher gets angry because you put Jayesh as an answer in your test, he/she isn't mad because of that answer, your teacher is in fact jealous because you are smarter than him/her.
+Jayesh went back in time and killed all his great-grandparents just to trip everybody out.
 
-Updated on: [3/5/2025]
+Updated on: [4/5/2025]
 <!-- #jokeEnd -->
