@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh went back in time and killed all his great-grandparents just to trip everybody out.
+The city of Pompeii was not destroyed by a volcanic eruption, but rather an eruption from Jayesh after having eaten a truckload of Southern Homestyle Chili.
 
-Updated on: [4/5/2025]
+Updated on: [5/5/2025]
 <!-- #jokeEnd -->
