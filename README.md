@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-It used to be called goodminton before Jayesh tried it.
+when Jayesh is asleep the sheep count him
 
-Updated on: [7/5/2025]
+Updated on: [8/5/2025]
 <!-- #jokeEnd -->
