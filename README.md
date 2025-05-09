@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-when Jayesh is asleep the sheep count him
+If light is the fastest traveling element known, then Jayesh is not an element
 
-Updated on: [8/5/2025]
+Updated on: [9/5/2025]
 <!-- #jokeEnd -->
