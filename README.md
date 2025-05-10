@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If light is the fastest traveling element known, then Jayesh is not an element
+Jayesh doesn't have school because hes too smart. That happened in 2nd grade.
 
-Updated on: [9/5/2025]
+Updated on: [10/5/2025]
 <!-- #jokeEnd -->
