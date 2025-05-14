@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh doesn't see the glass as half-full or half-empty... he simply kills the asshole who didn't pour him a full beer.
+Jayesh can put out a fire....with gasoline.
 
-Updated on: [13/5/2025]
+Updated on: [14/5/2025]
 <!-- #jokeEnd -->
