@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-In the morning, Jayesh eats specially formulated Cheerios made of cement.
+when life gives Jayesh lemons, he makes orange juice...then punches life in the fucking throat..Chuck hates lemons
 
-Updated on: [16/5/2025]
+Updated on: [17/5/2025]
 <!-- #jokeEnd -->
