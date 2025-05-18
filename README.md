@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-when life gives Jayesh lemons, he makes orange juice...then punches life in the fucking throat..Chuck hates lemons
+Jayesh once visited the Virgin Islands, now they're just called the islands.
 
-Updated on: [17/5/2025]
+Updated on: [18/5/2025]
 <!-- #jokeEnd -->
