@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once visited the Virgin Islands, now they're just called the islands.
+A crocodile attacked Jayesh while he swam in a Florida river. The same croc was seen at a local veterinarians office the next day attempting to get a set of teeth to replace his, as they were all missing.
 
-Updated on: [18/5/2025]
+Updated on: [19/5/2025]
 <!-- #jokeEnd -->
