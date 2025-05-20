@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-A crocodile attacked Jayesh while he swam in a Florida river. The same croc was seen at a local veterinarians office the next day attempting to get a set of teeth to replace his, as they were all missing.
+Jayesh has to trim his toenails with bolt cutters.
 
-Updated on: [19/5/2025]
+Updated on: [20/5/2025]
 <!-- #jokeEnd -->
