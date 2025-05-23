@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh has some gold, frankincense, and myrrh sitting on his mantelpiece, next to the three embalmed skulls of the so-called 'wise' men.
+When Jayesh wants something, the person standing next to him better goddamn give it to him within the next two seconds or die by the roundhouse kick.
 
-Updated on: [22/5/2025]
+Updated on: [23/5/2025]
 <!-- #jokeEnd -->
