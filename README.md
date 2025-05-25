@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh doesn't get morning wood, he gets morning Redwood!
+Calculator's refuse to work around Jayesh in fear of outsmarting him
 
-Updated on: [24/5/2025]
+Updated on: [25/5/2025]
 <!-- #jokeEnd -->
