@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is the director of ZOO jurassic park
+Jayesh does his ironing with a steamroller.
 
-Updated on: [27/5/2025]
+Updated on: [28/5/2025]
 <!-- #jokeEnd -->
