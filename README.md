@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh's Hummer gets 728 mpg. Every night, about 3:15, it fucks your Prius up the tailpipe and spanks it goodbye.
+Jayesh roundhouse kicked PSY in the face Gangman Style.
 
-Updated on: [29/5/2025]
+Updated on: [30/5/2025]
 <!-- #jokeEnd -->
