@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is the only living person who ever skyped from a rock.
+i dont know why people treat Jayesh like hes a killer he has the heart of a child which isa bad thing
 
-Updated on: [31/5/2025]
+Updated on: [1/6/2025]
 <!-- #jokeEnd -->
