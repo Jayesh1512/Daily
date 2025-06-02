@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-i dont know why people treat Jayesh like hes a killer he has the heart of a child which isa bad thing
+When Jayesh plays Monopoly, it affects the actual world economy.
 
-Updated on: [1/6/2025]
+Updated on: [2/6/2025]
 <!-- #jokeEnd -->
