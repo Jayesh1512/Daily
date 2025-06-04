@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh used Thor's hammer to tack a picture up on his living room wall.
+The video game DOOM is loosly based of the time when the devil borrowed two bucks from Jayesh and forgot to pay him back.
 
-Updated on: [3/6/2025]
+Updated on: [4/6/2025]
 <!-- #jokeEnd -->
