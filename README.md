@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The video game DOOM is loosly based of the time when the devil borrowed two bucks from Jayesh and forgot to pay him back.
+Jayesh puts the "punch" in punch-line.
 
-Updated on: [4/6/2025]
+Updated on: [5/6/2025]
 <!-- #jokeEnd -->
