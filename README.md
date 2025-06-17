@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is so modest that his ranch isn't called "Jayesh's ranch." It is simply called "Texas".
+Antarctica was made by sand everywhere.Then Jayesh used a flamethrower to turn it into ice. Finally it got so cold that it started snowing. And its also how winter was made.
 
-Updated on: [16/6/2025]
+Updated on: [17/6/2025]
 <!-- #jokeEnd -->
