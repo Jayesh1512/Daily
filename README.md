@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-There was no "Great deppresion". Just a time when Jayesh didn't have money.
+Jack Lallane gave birth to Jayesh, who in turn, gave birth to Jack Lallane. Vin Diesel was the afterbirth.
 
-Updated on: [18/6/2025]
+Updated on: [19/6/2025]
 <!-- #jokeEnd -->
