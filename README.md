@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jack Lallane gave birth to Jayesh, who in turn, gave birth to Jack Lallane. Vin Diesel was the afterbirth.
+Jayesh once slam-dunked a supermarket against the side of a mountain.
 
-Updated on: [19/6/2025]
+Updated on: [20/6/2025]
 <!-- #jokeEnd -->
