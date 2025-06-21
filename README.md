@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once slam-dunked a supermarket against the side of a mountain.
+At some point, you go past "dangerous" into "insane". Beyond that on the spectrum, you have "homicidal", "a national threat" and finally a category that experts have simply named, "Jayesh".
 
-Updated on: [20/6/2025]
+Updated on: [21/6/2025]
 <!-- #jokeEnd -->
