@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-At some point, you go past "dangerous" into "insane". Beyond that on the spectrum, you have "homicidal", "a national threat" and finally a category that experts have simply named, "Jayesh".
+when a cop pulls over Jayesh for drinking and driving the cop is just making shur that he doesnt spill his beer.
 
-Updated on: [21/6/2025]
+Updated on: [22/6/2025]
 <!-- #jokeEnd -->
