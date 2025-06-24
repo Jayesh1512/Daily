@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh invented the male sex.
+If you hear Jayesh say 'OH SNAP!!', he is most likely referring to your spine.
 
-Updated on: [23/6/2025]
+Updated on: [24/6/2025]
 <!-- #jokeEnd -->
