@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If you hear Jayesh say 'OH SNAP!!', he is most likely referring to your spine.
+Jayesh has 12 moons. One of those moons is the Earth.
 
-Updated on: [24/6/2025]
+Updated on: [25/6/2025]
 <!-- #jokeEnd -->
