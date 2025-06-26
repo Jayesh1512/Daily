@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh has 12 moons. One of those moons is the Earth.
+Jayesh once sawed a man in half..... With his beard.
 
-Updated on: [25/6/2025]
+Updated on: [26/6/2025]
 <!-- #jokeEnd -->
