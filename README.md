@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once sawed a man in half..... With his beard.
+Brain dead zombies are smart enough to stay the hell away from Jayesh.
 
-Updated on: [26/6/2025]
+Updated on: [27/6/2025]
 <!-- #jokeEnd -->
