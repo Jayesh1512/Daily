@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Brain dead zombies are smart enough to stay the hell away from Jayesh.
+Jayesh's shadow weighs 250 pounds and can kick your ass .
 
-Updated on: [27/6/2025]
+Updated on: [28/6/2025]
 <!-- #jokeEnd -->
