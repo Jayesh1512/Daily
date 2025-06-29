@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh's shadow weighs 250 pounds and can kick your ass .
+Every hair on Jayesh' beard represents the soul of a victim
 
-Updated on: [28/6/2025]
+Updated on: [29/6/2025]
 <!-- #jokeEnd -->
