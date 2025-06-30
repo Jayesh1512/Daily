@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Every hair on Jayesh' beard represents the soul of a victim
+Jayesh framed Michael Jackson's doctor.
 
-Updated on: [29/6/2025]
+Updated on: [30/6/2025]
 <!-- #jokeEnd -->
