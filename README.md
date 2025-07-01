@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh framed Michael Jackson's doctor.
+I dont care how you, anyone you know, or anyone in general, Jayesh is the reason.
 
-Updated on: [30/6/2025]
+Updated on: [1/7/2025]
 <!-- #jokeEnd -->
