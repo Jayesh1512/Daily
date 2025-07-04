@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The Christmas Tree of Jayesh is/has/was: 100 meters tall. 103856 ornaments. 262 stars. 2847687949295 lights. too many presents under it to count. painted with 38583 colors, 683 being shades of green.
+No, meteor didn't kill the dinosaurs, it was Jayesh. Why? Jayesh doesn't like dinosaurs.
 
-Updated on: [3/7/2025]
+Updated on: [4/7/2025]
 <!-- #jokeEnd -->
