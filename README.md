@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is currently involved in a lawsuit against the writers of the 'Hokey Pokey' claiming that, in reality, Jayesh is what it is all about.
+Jayesh believes that for every action there is an equal and opposite roundhouse kick to your head.
 
-Updated on: [8/7/2025]
+Updated on: [9/7/2025]
 <!-- #jokeEnd -->
