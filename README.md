@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh believes that for every action there is an equal and opposite roundhouse kick to your head.
+zejd je jednom rekao chuck nofdsfsdfjdsfndsjfbdsjf i skontaj je da mu string nije nul, ali je njega chuck terminirao
 
-Updated on: [9/7/2025]
+Updated on: [10/7/2025]
 <!-- #jokeEnd -->
