@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Do you know why Jayesh doesn't have hair on his balls because hair doesn't grow on steel!
+Jayesh doesn't 'open' bottles of beer. He simply bites the top off and chugs it.
 
-Updated on: [18/7/2025]
+Updated on: [19/7/2025]
 <!-- #jokeEnd -->
