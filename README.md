@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When Jayesh does public appearances, he doesn't need no pussy-ass mike.
+Once I thought water was rain till I took a trip to outer space and saw Jayesh peeing on the earth.
 
-Updated on: [20/7/2025]
+Updated on: [21/7/2025]
 <!-- #jokeEnd -->
