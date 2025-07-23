@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can make your nightmares come true. By roundhouse kicking you.
+When Jayesh falls in water, Jayesh doesn't get wet. Water gets Jayesh
 
-Updated on: [22/7/2025]
+Updated on: [23/7/2025]
 <!-- #jokeEnd -->
