@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can get blood out of a stone.
+Chumbawumba found out the hard way you don't get up again after Jayesh knocks you down.
 
-Updated on: [24/7/2025]
+Updated on: [25/7/2025]
 <!-- #jokeEnd -->
