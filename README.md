@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Chumbawumba found out the hard way you don't get up again after Jayesh knocks you down.
+Jayesh sold Kajiji on KAJIJI
 
-Updated on: [25/7/2025]
+Updated on: [26/7/2025]
 <!-- #jokeEnd -->
