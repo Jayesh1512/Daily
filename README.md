@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Once a cow challenged Jayesh that he could not eat grass. Jayesh grazed 1/5 of the African continent in a day, which resulted in the formation of the Sahara desert. Then he proceeded to roundhouse kick and eat the cow at the same time. Moral of the story: Do not challenge Jayesh.
+A movie critic told Jayesh "my dilemma is whether so watch one of your movies or watch paint dry". Chuck told him "my dilemma is whether to rip off your scrotum or punch you in the throat". Chuck did both.
 
-Updated on: [2/8/2025]
+Updated on: [3/8/2025]
 <!-- #jokeEnd -->
