@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-In space no-one can hear you scream... tell that bullshit to Jayesh and expect to find out just how wrong you can be.
+Jayesh can see his shadow and catch it- at night.
 
-Updated on: [8/8/2025]
+Updated on: [9/8/2025]
 <!-- #jokeEnd -->
