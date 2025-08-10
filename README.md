@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can see his shadow and catch it- at night.
+People can swim on water but Jayesh can swim on Land
 
-Updated on: [9/8/2025]
+Updated on: [10/8/2025]
 <!-- #jokeEnd -->
