@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-one nice day i read about Jayesh , that was the day wen life ended as i knew it P.S. I love Jayesh
+The instant Jayesh came out of his mother, his first words were, "Which one of you motherfuckers is Julius Caesar?" The senators took the rap for him.
 
-Updated on: [18/8/2025]
+Updated on: [19/8/2025]
 <!-- #jokeEnd -->
