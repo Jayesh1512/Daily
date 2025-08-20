@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The instant Jayesh came out of his mother, his first words were, "Which one of you motherfuckers is Julius Caesar?" The senators took the rap for him.
+Someone once told Jayesh his hair looked good. He roundhouse kicked him in the face and told him that he made the hair look good.
 
-Updated on: [19/8/2025]
+Updated on: [20/8/2025]
 <!-- #jokeEnd -->
