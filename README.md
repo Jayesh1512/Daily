@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Someone once told Jayesh his hair looked good. He roundhouse kicked him in the face and told him that he made the hair look good.
+The Bill Of Rights was written by Jayesh on a used napkin and was originally called The Chuck Of Wrongs.
 
-Updated on: [20/8/2025]
+Updated on: [21/8/2025]
 <!-- #jokeEnd -->
