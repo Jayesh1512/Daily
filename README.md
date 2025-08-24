@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The devil has a Jayesh-may-care attitude.
+The Killer Instinct Community is thinking either to put Jayesh in season 3.
 
-Updated on: [23/8/2025]
+Updated on: [24/8/2025]
 <!-- #jokeEnd -->
