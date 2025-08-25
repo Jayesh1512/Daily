@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The Killer Instinct Community is thinking either to put Jayesh in season 3.
+who ever goes on about will weston next is gettin batterd by Gary neville and Jayesh !
 
-Updated on: [24/8/2025]
+Updated on: [25/8/2025]
 <!-- #jokeEnd -->
