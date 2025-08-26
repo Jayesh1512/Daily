@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-who ever goes on about will weston next is gettin batterd by Gary neville and Jayesh !
+Jayesh likes to mess with the missionary man.
 
-Updated on: [25/8/2025]
+Updated on: [26/8/2025]
 <!-- #jokeEnd -->
