@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If Jayesh rammed his boot up your ass, all three of us would be tickled!
+Jayesh went into a restaurant and ordered a beef steak. The waiter asked him how would he like his steak cooked - well done, medium or rare. Jayesh said - "Alive".
 
-Updated on: [30/8/2025]
+Updated on: [31/8/2025]
 <!-- #jokeEnd -->
