@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh went into a restaurant and ordered a beef steak. The waiter asked him how would he like his steak cooked - well done, medium or rare. Jayesh said - "Alive".
+Jayesh once kicked a baby elephant into puberty
 
-Updated on: [31/8/2025]
+Updated on: [1/9/2025]
 <!-- #jokeEnd -->
