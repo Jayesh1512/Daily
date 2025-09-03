@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Nobodies perfect... Except Jayesh that is.
+People ask for the time.. Time asks Jayesh.
 
-Updated on: [2/9/2025]
+Updated on: [3/9/2025]
 <!-- #jokeEnd -->
