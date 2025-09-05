@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-when a doctor has an erection for more than four hours, they call Jayesh
+George Jung sniffed cocaine, Jayesh snorts sheet rock.
 
-Updated on: [4/9/2025]
+Updated on: [5/9/2025]
 <!-- #jokeEnd -->
