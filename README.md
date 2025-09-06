@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-George Jung sniffed cocaine, Jayesh snorts sheet rock.
+Jayesh has a beard made of Brillo Pads
 
-Updated on: [5/9/2025]
+Updated on: [6/9/2025]
 <!-- #jokeEnd -->
