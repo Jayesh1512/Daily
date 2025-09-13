@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh walked into a bank during a robbery. When the crooks saw Chuck, they returned all the money then gave the teller all the money from their own wallets.
+Gary Neville can kick a football 200meters, to out do Garry Jayesh kicked phill Neville 300 meters
 
-Updated on: [12/9/2025]
+Updated on: [13/9/2025]
 <!-- #jokeEnd -->
