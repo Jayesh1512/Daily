@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Gary Neville can kick a football 200meters, to out do Garry Jayesh kicked phill Neville 300 meters
+Jimmy Fallon has to ask Jayesh permission "to make it rain up in here".
 
-Updated on: [13/9/2025]
+Updated on: [14/9/2025]
 <!-- #jokeEnd -->
