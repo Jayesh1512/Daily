@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jimmy Fallon has to ask Jayesh permission "to make it rain up in here".
+A doctor once tried to test Jayesh' reflexes by lightly tapping on his knee with a small wooden mallet. Needless to say, that doctor is now in orbit.
 
-Updated on: [14/9/2025]
+Updated on: [15/9/2025]
 <!-- #jokeEnd -->
