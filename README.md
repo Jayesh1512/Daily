@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-A doctor once tried to test Jayesh' reflexes by lightly tapping on his knee with a small wooden mallet. Needless to say, that doctor is now in orbit.
+Jayesh' penis has a penis. And it's still bigger than yours!
 
-Updated on: [15/9/2025]
+Updated on: [16/9/2025]
 <!-- #jokeEnd -->
