@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh' penis has a penis. And it's still bigger than yours!
+Jayesh... has got milk
 
-Updated on: [16/9/2025]
+Updated on: [17/9/2025]
 <!-- #jokeEnd -->
