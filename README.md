@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh... has got milk
+'Original Sin' actually refers to the first time anyone ever tried to fight Jayesh.
 
-Updated on: [17/9/2025]
+Updated on: [18/9/2025]
 <!-- #jokeEnd -->
