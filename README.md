@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh has many private vacation homes. Some examples are: Area 51, The Bermuda Triangle, and Fort Nox.
+Jayesh puts his pants on one leg at a time, just like the rest of us. The only difference is, then he kills people.
 
-Updated on: [19/9/2025]
+Updated on: [20/9/2025]
 <!-- #jokeEnd -->
