@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh puts his pants on one leg at a time, just like the rest of us. The only difference is, then he kills people.
+A man once asked Jayesh if it was true that he had cheated Death. Jayesh merely laughed and said "Fool! I am Death" and proceeded to roundhouse kick him mercilessly.
 
-Updated on: [20/9/2025]
+Updated on: [21/9/2025]
 <!-- #jokeEnd -->
