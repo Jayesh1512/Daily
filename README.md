@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-After Jayesh roundhouse kicked Theresa Caputo, the Long Island Medium in the face for being a fake, she really was able to communicate with the dearly departed...posthumously.
+Hot news from the Vatican...white smoke appears. Jayesh has been elected Pope! All ye of faith, welcome Pope Charles deNoir-iz Kikyorectumis.
 
-Updated on: [23/9/2025]
+Updated on: [24/9/2025]
 <!-- #jokeEnd -->
