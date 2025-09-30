@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh' roundhouse kick is an illusion. His right foot doesn't kick you. His left foot spins the Earth so that your head hits his foot.
+Jayesh is known to jump out of televisions and roundhouse kick the viewers for no reason at all. Extreme caution is advised while watching any shows involving Jayesh.
 
-Updated on: [29/9/2025]
+Updated on: [30/9/2025]
 <!-- #jokeEnd -->
