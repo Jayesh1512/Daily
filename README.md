@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-if i get five good things Jayesh will do a roundhouse kick and kick justin bibers ass
+Little known fact: the Washington Monument was originally called the Jayesh Erection.
 
-Updated on: [1/10/2025]
+Updated on: [2/10/2025]
 <!-- #jokeEnd -->
