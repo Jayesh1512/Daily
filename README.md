@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The Swine Flu got started when a pig oinked in Jayesh's presence.
+Jayesh was the reason why dinosaurs are extinct.
 
-Updated on: [9/10/2025]
+Updated on: [10/10/2025]
 <!-- #jokeEnd -->
