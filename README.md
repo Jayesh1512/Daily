@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh was the reason why dinosaurs are extinct.
+Martin Luther King may have had a dream, but Jayesh had a body count.
 
-Updated on: [10/10/2025]
+Updated on: [11/10/2025]
 <!-- #jokeEnd -->
