@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh just bought Gov Rick Perry's family hunting property. He immediately repainted the sign to read: "Gimme Some Head".
+Ok im back. Jayesh was secretly included for Mortal Kombat X. The developers then changed their minds and removed him because 1 hit from Jayesh= a fatality.
 
-Updated on: [16/10/2025]
+Updated on: [17/10/2025]
 <!-- #jokeEnd -->
