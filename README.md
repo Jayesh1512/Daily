@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once squeezed a lemon, got kiwi juice, put the kiwi juice the oven and it would be the best damn cupcake you ever had
+Just a little over 50 years ago, Jayesh once helped President Kennedy mount a horse when they went horseback riding in Texas. He didn't later help Jack off the horse.
 
-Updated on: [19/10/2025]
+Updated on: [20/10/2025]
 <!-- #jokeEnd -->
