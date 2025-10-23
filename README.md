@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can roundhouse kick you in such a way that you become incapable of dying, and just do a little worse every day.
+When observing a Jayesh roundhouse kick in slow motion, one finds that Jayesh actually rapes his victim in the ass, smokes a cigarette with Dennis Leary, and then roundhouse kicks them in the face.
 
-Updated on: [22/10/2025]
+Updated on: [23/10/2025]
 <!-- #jokeEnd -->
