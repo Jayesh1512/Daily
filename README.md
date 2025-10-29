@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-when we add 9+1, we get 10. when Jayesh adds 9+1, a thunderbolt strikes down the nearest person watching him.
+Jayesh can kick you in the nuts so hard, they will fly through your body up into your head and knock out your eyeballs, effectively replacing them.
 
-Updated on: [28/10/2025]
+Updated on: [29/10/2025]
 <!-- #jokeEnd -->
