@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Joe Namath felt safe making his Super Bowl III guarantee because Jayesh said the Jets would win.
+When Neil Armstrong stepped onto the Moon, Jayesh roundhouse kicked him 900 yards and said, "That's one giant leap for a man, and a long damn wait for me."
 
-Updated on: [3/11/2025]
+Updated on: [4/11/2025]
 <!-- #jokeEnd -->
