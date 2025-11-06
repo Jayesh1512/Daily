@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is the actual King of the World.
+The high tide occurs when Jayesh flies over the beach. the rising water is where god pees his pants
 
-Updated on: [5/11/2025]
+Updated on: [6/11/2025]
 <!-- #jokeEnd -->
