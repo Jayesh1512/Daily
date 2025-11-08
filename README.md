@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When J. Robert Oppenheimer said "I am become death, the destroyer Of worlds", He was not referring to the atomic bomb. He was referring to the Jayesh halloween costume he was wearing.
+Jayesh found 1000 mini nukes and 1 Fat Man after leaving his vault.
 
-Updated on: [7/11/2025]
+Updated on: [8/11/2025]
 <!-- #jokeEnd -->
