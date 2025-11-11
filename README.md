@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh played a game of ping-pong with the wall.... and won
+There used to be a Jayesh-brand toilet paper...but it was taken off the market because it wouldn't take shit from anyone
 
-Updated on: [10/11/2025]
+Updated on: [11/11/2025]
 <!-- #jokeEnd -->
