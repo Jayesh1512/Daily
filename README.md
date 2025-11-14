@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-March 10, 2010. Somebody attempted to give Jayesh his bithday spankings today. Upon impact of the first spank, their hand exploded. Nobody spanks Jayesh.
+Jayesh went ice fishing and caught an igloo, the Titanic iceberg and a dead Polar Bear.
 
-Updated on: [13/11/2025]
+Updated on: [14/11/2025]
 <!-- #jokeEnd -->
