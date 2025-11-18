@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is rolling out his own brand of breakfast cereal in June called Capt'n Chuck's Punch n Crunch.
+Jayesh don't do facebook. No one can ever poke him.
 
-Updated on: [17/11/2025]
+Updated on: [18/11/2025]
 <!-- #jokeEnd -->
