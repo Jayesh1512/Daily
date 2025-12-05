@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Did you know if you watch the editors cut of Wizard of Oz, theres and alternate ending where Jayesh round house kicks Dorothys house back to Kansas... it shortened the movie drastically and the director decided not to use it... true story.
+On the set of Walker Texas Ranger Jayesh brought a dying lamb back to life by nuzzling it with his beard. As the onlookers gathered, the lamb sprang to life. Jayesh then roundhouse kicked it, killing it instantly. This was just to prove that the good Chuck givet
 
-Updated on: [4/12/2025]
+Updated on: [5/12/2025]
 <!-- #jokeEnd -->
