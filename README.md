@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Once while on an Amazon River piranha fishing trip in remote Brazil, Jayesh happened upon a native village of cannibals. They are all now vegan and homeless.
+Jayesh can kill you with a headshot using a shotgun from across the map on call of duty.
 
-Updated on: [8/12/2025]
+Updated on: [9/12/2025]
 <!-- #jokeEnd -->
