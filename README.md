@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-There are two kinds of women in the world; those who have slept with Jayesh, and those who want to.
+Jayesh can kill you with a moist towelette
 
-Updated on: [15/12/2025]
+Updated on: [16/12/2025]
 <!-- #jokeEnd -->
