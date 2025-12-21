@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If Jayesh says that turkey, cranberries & yams actually taste real good, then they do!!! And out of fear, that's the only reason we we eat that crap. We are truely Thankful that Jayesh only demands this once a year.
+a cross died on Jayesh
 
-Updated on: [20/12/2025]
+Updated on: [21/12/2025]
 <!-- #jokeEnd -->
