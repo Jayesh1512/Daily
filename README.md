@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh doesn't just bend space-time, he can turn it into a goddamn balloon animal.
+Bruce Spingsteen calls Jayesh "The Boss".
 
-Updated on: [30/12/2025]
+Updated on: [31/12/2025]
 <!-- #jokeEnd -->
