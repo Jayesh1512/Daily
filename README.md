@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Bruce Spingsteen calls Jayesh "The Boss".
+Jayesh didn't vote this year...he delegated.
 
-Updated on: [31/12/2025]
+Updated on: [1/1/2026]
 <!-- #jokeEnd -->
