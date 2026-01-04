@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Michael Jackson didn't have a rare skin disease.... Jayesh beat the black outa him.. ..at Michael's request. The injuries were so severe it required several years of intense surgery.
+The word 'Kill' was invented by Jayesh. Other words were 'Die', 'Beer', and 'What'.
 
-Updated on: [3/1/2026]
+Updated on: [4/1/2026]
 <!-- #jokeEnd -->
