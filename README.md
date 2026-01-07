@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-In thinking of famous celebrities, Jayesh & Dolly Parton come to mind. Now that's a couple of big ones for ya!
+Don't fight the IRS alone. Even Jayesh has to pay taxes.
 
-Updated on: [6/1/2026]
+Updated on: [7/1/2026]
 <!-- #jokeEnd -->
