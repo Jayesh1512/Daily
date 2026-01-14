@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh recently got a prince albert piercing the size of a dumbbell.
+Jayesh owns and operates a family restaurant in Waco, TX. The only item on the menu is a knuckle sandwich.
 
-Updated on: [13/1/2026]
+Updated on: [14/1/2026]
 <!-- #jokeEnd -->
