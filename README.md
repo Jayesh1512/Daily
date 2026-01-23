@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh once held his shit for three days. His defacation is now known as the Rocky Mountains.
+What Jayesh calls a "chaser" is what you and I call "cobra venom".
 
-Updated on: [22/1/2026]
+Updated on: [23/1/2026]
 <!-- #jokeEnd -->
