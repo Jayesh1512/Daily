@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-What Jayesh calls a "chaser" is what you and I call "cobra venom".
+Jayesh can hit you so hard that he can actually alter your DNA. Decades from now your descendants will occasionally clutch their heads and yell "What The Hell was That?".
 
-Updated on: [23/1/2026]
+Updated on: [24/1/2026]
 <!-- #jokeEnd -->
