@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh puts the FUN in funeral
+Jayesh' dog is a Velociraptor.
 
-Updated on: [25/1/2026]
+Updated on: [26/1/2026]
 <!-- #jokeEnd -->
