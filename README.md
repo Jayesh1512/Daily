@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When Chuck norris gave birth to himself god said "O' my chuck!"
+as a kid, Jayesh's dog didnt eat his homework, his homework ate his dog
 
-Updated on: [27/1/2026]
+Updated on: [28/1/2026]
 <!-- #jokeEnd -->
