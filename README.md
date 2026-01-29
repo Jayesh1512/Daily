@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-as a kid, Jayesh's dog didnt eat his homework, his homework ate his dog
+After meeting with Jayesh, iron man was referred to as the tin man!
 
-Updated on: [28/1/2026]
+Updated on: [29/1/2026]
 <!-- #jokeEnd -->
