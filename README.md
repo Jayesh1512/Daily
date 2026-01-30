@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-After meeting with Jayesh, iron man was referred to as the tin man!
+Jayesh didn't like watching Aaron Hernandez play football. So he sent him to prison so he wouldn't have to see him play again.
 
-Updated on: [29/1/2026]
+Updated on: [30/1/2026]
 <!-- #jokeEnd -->
