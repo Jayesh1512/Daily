@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When Jayesh was born, his Dad celebrated by lighting up cigars, one for him and one for Chuck.
+If you ever have to go to prison, get "property of Jayesh" tattooed on your body and you can drop the soap with no fear.
 
-Updated on: [12/2/2026]
+Updated on: [13/2/2026]
 <!-- #jokeEnd -->
