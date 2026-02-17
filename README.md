@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh knows what it sounds like when doves cry.
+If you accidentally sit in Jayesh' seat at the opera, expect to have a clarinet jammed up your ass by intermission.
 
-Updated on: [16/2/2026]
+Updated on: [17/2/2026]
 <!-- #jokeEnd -->
