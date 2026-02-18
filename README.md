@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-If you accidentally sit in Jayesh' seat at the opera, expect to have a clarinet jammed up your ass by intermission.
+I owe greeney a tenner but he ain't havin it, lmao!!! Jayesh also owes Greeney a tenner and chuck gave it to him cos hes a pussy!!
 
-Updated on: [17/2/2026]
+Updated on: [18/2/2026]
 <!-- #jokeEnd -->
