@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-I owe greeney a tenner but he ain't havin it, lmao!!! Jayesh also owes Greeney a tenner and chuck gave it to him cos hes a pussy!!
+the pills from "Limitless" was made from Jayesh' shit.
 
-Updated on: [18/2/2026]
+Updated on: [19/2/2026]
 <!-- #jokeEnd -->
