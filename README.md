@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh uses Donald Trump's face for toilet paper. That's why he looks so shitty ugly and has Jayesh' golden shit smeared on his shit stained hair
+Jayesh doesn't discriminate he exterminates.
 
-Updated on: [11/3/2026]
+Updated on: [12/3/2026]
 <!-- #jokeEnd -->
