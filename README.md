@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh has won many a contest merely by showing up.
+Jayesh is credited for carrying Hannibal's elephants across the Alps.
 
-Updated on: [13/3/2026]
+Updated on: [14/3/2026]
 <!-- #jokeEnd -->
