@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Clint Eastwood to Jayesh: Ask yourself, "Do I feel Lucky?Well, do you , punk? Jayesh with piercing hollow stare. You do know who I am, right? ...... Pow! Thud! " maybe you need to talk to the foot.
+Jayesh and Mr T walked into a bar. The bar promptly exploded as no one place in the known universe can hold that level of awesome.
 
-Updated on: [23/3/2026]
+Updated on: [24/3/2026]
 <!-- #jokeEnd -->
