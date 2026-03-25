@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh and Mr T walked into a bar. The bar promptly exploded as no one place in the known universe can hold that level of awesome.
+Jayesh turned my pepsi into coke....I drank it for my own safety
 
-Updated on: [24/3/2026]
+Updated on: [25/3/2026]
 <!-- #jokeEnd -->
