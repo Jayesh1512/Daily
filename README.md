@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can tell Simon what to do.
+Jayesh likes to perform surprise lobotomies with an ice-cream scoop.
 
-Updated on: [29/3/2026]
+Updated on: [30/3/2026]
 <!-- #jokeEnd -->
