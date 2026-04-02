@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh uses Spiderman as a hammock.
+The Big Kahuna is simply Hawaiian coast guard slang for the approaching of the Jayesh dong.
 
-Updated on: [1/4/2026]
+Updated on: [2/4/2026]
 <!-- #jokeEnd -->
