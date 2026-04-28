@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Never smile at a crocodile. Unless you know that Jayesh is about to rip it in half like a phone book.
+In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep. Jayesh was chasing the Tyrannosaurus AND the jeep.
 
-Updated on: [27/4/2026]
+Updated on: [28/4/2026]
 <!-- #jokeEnd -->
