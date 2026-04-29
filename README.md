@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-In the first Jurassic Park movie, the Tyrannosaurus Rex wasn't chasing the jeep. Jayesh was chasing the Tyrannosaurus AND the jeep.
+Jayesh and Rick Perry were driving through Texas on a beer dinking binge. And Rick Perry threw a lit cigarette butt out the window.
 
-Updated on: [28/4/2026]
+Updated on: [29/4/2026]
 <!-- #jokeEnd -->
