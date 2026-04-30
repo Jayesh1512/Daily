@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh and Rick Perry were driving through Texas on a beer dinking binge. And Rick Perry threw a lit cigarette butt out the window.
+Jayesh is the only man to ever defeat a brick wall in a game of tennis.
 
-Updated on: [29/4/2026]
+Updated on: [30/4/2026]
 <!-- #jokeEnd -->
