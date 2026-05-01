@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is the only man to ever defeat a brick wall in a game of tennis.
+The reason why the truth hurts, is because Jayesh round-house kicked it in the face
 
-Updated on: [30/4/2026]
+Updated on: [1/5/2026]
 <!-- #jokeEnd -->
