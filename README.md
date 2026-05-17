@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can blow candles back on.
+Jayesh once had unprotected sex with Tila Tequila and didn't catch anything.
 
-Updated on: [16/5/2026]
+Updated on: [17/5/2026]
 <!-- #jokeEnd -->
