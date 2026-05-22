@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh killed all the dinosaurs and burried the corpses.
+When Jayesh was born, he immediately had sex with the first nurse he saw. He was her first. She was his third. That afternoon.
 
-Updated on: [21/5/2026]
+Updated on: [22/5/2026]
 <!-- #jokeEnd -->
