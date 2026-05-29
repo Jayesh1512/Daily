@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-For most people, anger is simply a state of mind... For Jayesh, it is state-of-the-art.
+Jayesh once knifed a guy to death then beat up the knife.
 
-Updated on: [28/5/2026]
+Updated on: [29/5/2026]
 <!-- #jokeEnd -->
