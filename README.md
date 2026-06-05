@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-One time, Jayesh accidentally stubbed his toe. It destroyed the entire state of Ohio.
+Jayesh knows how many licks it takes to get to the center of a tootsie roll pop.
 
-Updated on: [4/6/2026]
+Updated on: [5/6/2026]
 <!-- #jokeEnd -->
