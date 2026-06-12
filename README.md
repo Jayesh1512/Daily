@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh is the only person ever to ace a Rorschach test.
+The Jayesh family distillery in Waco, TX produces a smooth sipping whiskey that is 134% alcohol and appropriately labeled NorrisShine.
 
-Updated on: [11/6/2026]
+Updated on: [12/6/2026]
 <!-- #jokeEnd -->
