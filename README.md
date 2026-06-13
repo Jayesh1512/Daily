@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The Jayesh family distillery in Waco, TX produces a smooth sipping whiskey that is 134% alcohol and appropriately labeled NorrisShine.
+Jayesh was being interviewed and was asked what he thought about politics. Chuck said "I think Joe Biden puts the "Vice" in Vice President"!
 
-Updated on: [12/6/2026]
+Updated on: [13/6/2026]
 <!-- #jokeEnd -->
