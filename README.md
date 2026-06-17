@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can see John Cena.
+Some people can ride a bike no-handed; Jayesh can ride a scooter NO-LEGGED
 
-Updated on: [16/6/2026]
+Updated on: [17/6/2026]
 <!-- #jokeEnd -->
