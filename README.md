@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Zeus from Greek myth fathered many children, has a beard, and killed his own father. No, Zeus is not Jayesh. Jayesh killed Zeus for copying him.
+When Jayesh leads a horse to water, it drinks.
 
-Updated on: [26/6/2026]
+Updated on: [27/6/2026]
 <!-- #jokeEnd -->
