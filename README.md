@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-In a new western movie his fellow actors ride horses. Jayesh rides a Velociraptor. Bareback.
+When Jayesh stares at you your balls drop to the ground
 
-Updated on: [30/6/2026]
+Updated on: [1/7/2026]
 <!-- #jokeEnd -->
