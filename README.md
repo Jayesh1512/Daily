@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh went into a Catholic confession booth and made the preist confess to over one hundred unsolved pedophilia cases. Then Norris jammed a crucifix up his ass and emptied two Uzis into his face. On live TV.
+Bono wears Jayesh sunglasses.
 
-Updated on: [14/7/2026]
+Updated on: [15/7/2026]
 <!-- #jokeEnd -->
