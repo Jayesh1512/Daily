@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh keeps a loaded .357 Magnum down the front of his underpants at all times, and he don't give a fuck.
+Osama Bin Laden is Jayesh's bitch
 
-Updated on: [20/7/2026]
+Updated on: [21/7/2026]
 <!-- #jokeEnd -->
