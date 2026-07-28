@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh does not age. He improves.
+"Doom" -- 1) a popular video game. 2) Your inevitable fate if you fight Jayesh.
 
-Updated on: [27/7/2026]
+Updated on: [28/7/2026]
 <!-- #jokeEnd -->
