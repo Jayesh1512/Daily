@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-"Doom" -- 1) a popular video game. 2) Your inevitable fate if you fight Jayesh.
+Each time you rate this, Jayesh hits Obama with Charlie Sheen and says, "Who's winning now?!"
 
-Updated on: [28/7/2026]
+Updated on: [29/7/2026]
 <!-- #jokeEnd -->
