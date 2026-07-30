@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Each time you rate this, Jayesh hits Obama with Charlie Sheen and says, "Who's winning now?!"
+Saddam Hussein was not found hiding in a "hole." Saddam was roundhouse-kicked in the head by Jayesh in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.
 
-Updated on: [29/7/2026]
+Updated on: [30/7/2026]
 <!-- #jokeEnd -->
