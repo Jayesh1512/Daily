@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Saddam Hussein was not found hiding in a "hole." Saddam was roundhouse-kicked in the head by Jayesh in Kansas, which sent him through the earth, stopping just short of the surface of Iraq.
+Jayesh has Hitler's skull hanging off of his key-chain.
 
-Updated on: [30/7/2026]
+Updated on: [31/7/2026]
 <!-- #jokeEnd -->
