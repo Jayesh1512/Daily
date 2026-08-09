@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-According to Jayesh, nothing is black or white except bird shit.
+Jayesh never actually gets hit by punches and kicks, he actually is performing a fighting style where he smashes the limbs of his foes with his face.
 
-Updated on: [8/8/2026]
+Updated on: [9/8/2026]
 <!-- #jokeEnd -->
