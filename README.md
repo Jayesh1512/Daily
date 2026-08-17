@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh taught the Mack how to mack, and also taught Supafly how to flap his muthafuckin' wings.
+Jayesh' name in Spanish.... El Nino.
 
-Updated on: [16/8/2026]
+Updated on: [17/8/2026]
 <!-- #jokeEnd -->
