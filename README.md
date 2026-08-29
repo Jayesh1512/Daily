@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-When Jayesh smiles, someone dies. When he's smiling while roundhouse kicking someone, then two people die.
+Jayesh' daughter is 37 and still a virgin. There's not a man alive that wants Chuck to find out he screwed Chucks daughter.
 
-Updated on: [28/8/2026]
+Updated on: [29/8/2026]
 <!-- #jokeEnd -->
