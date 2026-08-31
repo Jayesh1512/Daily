@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-There is endless debate about the existence of the human soul. Well it does exist and Jayesh finds it delicious.
+Jayesh is the reason we, as a species, can't have nice things.
 
-Updated on: [30/8/2026]
+Updated on: [31/8/2026]
 <!-- #jokeEnd -->
