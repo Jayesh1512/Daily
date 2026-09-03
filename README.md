@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-They say you are what you eat, but this rule doesnt apply to Jayesh because all he eats is Pussy!!!
+Police officers do not wear protective vests because of guns on the streets, but because they erroneously believe that if they pull Jayesh over for anything it will stop him from handing them their spleen.
 
-Updated on: [2/9/2026]
+Updated on: [3/9/2026]
 <!-- #jokeEnd -->
