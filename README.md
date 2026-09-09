@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-All of the athletes caught using steroids were in fact injecting themselves with a drop of Jayesh piss!
+If there was a game about Jayesh you'd be scared to play it because every time you'd open it up it would roundhouse kick you in the balls.
 
-Updated on: [8/9/2026]
+Updated on: [9/9/2026]
 <!-- #jokeEnd -->
