@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh can make love AND wage war at the same time.
+In Highschool when Jayesh phone rang in class the teachers phone was confiscated
 
-Updated on: [13/9/2026]
+Updated on: [14/9/2026]
 <!-- #jokeEnd -->
