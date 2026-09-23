@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh was born at the speed of sound into the forehead of a Nazi.
+you know how eyes are windows to the soul ? well if you have a staring contest with Jayesh he'll suck out your soul
 
-Updated on: [22/9/2026]
+Updated on: [23/9/2026]
 <!-- #jokeEnd -->
