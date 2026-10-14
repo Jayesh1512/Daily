@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-A Jayesh roundhouse kick to the head is the reason Eric Holder can't remember his involvement in Operation Fast and Furious.
+Most folks play badminton with a racquet and a birdy. Jayesh plays badminton with a boat oar and a dead chicken.
 
-Updated on: [13/10/2026]
+Updated on: [14/10/2026]
 <!-- #jokeEnd -->
