@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-The only thing that Jayesh can't do is smell his own farts.
+Once when Jayesh was a child.....who are we kidding, Jayesh was born a man
 
-Updated on: [15/10/2026]
+Updated on: [16/10/2026]
 <!-- #jokeEnd -->
