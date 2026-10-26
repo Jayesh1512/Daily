@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh punished Superman for being Superman by making him wear his underwear over his pants.
+Similar to an Iceberg, only 1/10 of Jayesh beard can be seen above the surface.
 
-Updated on: [25/10/2026]
+Updated on: [26/10/2026]
 <!-- #jokeEnd -->
