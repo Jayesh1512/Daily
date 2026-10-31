@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh scrathes his balls with barb wire.
+What's the differance between Jayesh' penis and a beer tap? Nevermind, I'll just go get my own mug of beer.
 
-Updated on: [30/10/2026]
+Updated on: [31/10/2026]
 <!-- #jokeEnd -->
