@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Prostitution began when Jayesh went back in time and offered a Cro-Magnon woman a freshly slaughtered Woolly Mammoth as payment for a blow-job.
+Jayesh can tell Simon what to do.
 
-Updated on: [4/11/2026]
+Updated on: [5/11/2026]
 <!-- #jokeEnd -->
