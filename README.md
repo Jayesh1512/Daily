@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-At my house I have a "Beware of Dog" sign. At Jayesh' house, he has a "Beware of Jayesh" sign.
+If you see Jayesh screwing your mother, DO NOT APPROACH HIM. Just ignore all of the epic music playing, the explosions and the birds trying to fly in the window, and prepare a grave for her.
 
-Updated on: [9/11/2026]
+Updated on: [10/11/2026]
 <!-- #jokeEnd -->
