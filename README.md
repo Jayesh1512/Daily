@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Jayesh has a bear in his room it isint dead its to afraid to move.
+Just before killing someone, Jayesh likes to say 'where's your god now?'
 
-Updated on: [23/11/2026]
+Updated on: [24/11/2026]
 <!-- #jokeEnd -->
