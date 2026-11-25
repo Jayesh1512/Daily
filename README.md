@@ -1,7 +1,7 @@
 # Joke of the Day
 
 <!-- #joke -->
-Just before killing someone, Jayesh likes to say 'where's your god now?'
+Jayesh smokes cigars while scuba-diving.
 
-Updated on: [24/11/2026]
+Updated on: [25/11/2026]
 <!-- #jokeEnd -->
